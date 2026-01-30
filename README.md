@@ -1,121 +1,124 @@
 # Cert Track Mobile
 
-Cert Track Mobile is a mobile application built with Expo and React Native that helps users prepare for certification exams by tracking test performance, progress, and improvement over time.
-
-This project was developed as a real-world software engineering exercise, focusing on application flow, state-driven UI, and incremental feature development rather than static demo screens.
-
-Internal project name: FixFraiah
+Cert Track Mobile is a mobile application built with **Expo and React Native** designed to track certifications, user progress, and real-time interaction. The project demonstrates modern mobile app architecture, reusable UI components, global state management, and structured feature development.
 
 ---
 
-## Overview
+## 📱 Overview
 
-Most certification preparation tools focus primarily on delivering questions. Cert Track Mobile focuses on measuring learning progress, identifying weak areas, and showing improvement over time.
-
-The application is structured to support scalable certification categories, realistic exam flows, and progress tracking that mirrors how users prepare for professional certifications.
+This application was built as a portfolio project to demonstrate the ability to design, build, and structure a real-world mobile application. It focuses on scalability, clean architecture, and professional development workflows.
 
 ---
 
-## Features
-
-- User onboarding and authentication flow (UI-level)
-- Certification category selection
-- Practice test and timed exam modes
-- Question navigation and answer selection
-- Automatic scoring and results calculation
-- Progress statistics and performance tracking
-- Leaderboard and comparison views
-- Account and profile management screens
-- Modular, screen-based architecture
-
----
-
-## Technology Stack
+## 🧱 Tech Stack
 
 - Expo
 - React Native
 - JavaScript
-- React Navigation
-- Local state management
-- Custom styling
+- React Context API
+- Firebase (service integration)
+- Git & GitHub
 
 ---
 
-## Project Structure
+## 🗂 Project Structure
 
-```text
+```
 cert-track-mobile/
-├── screens/
-│   ├── OnboardingScreen.js
-│   ├── LoginScreen.js
-│   ├── HomeScreen.js
-│   ├── CategoryScreen.js
-│   ├── TestScreen.js
-│   ├── ExamScreen.js
-│   ├── ResultsScreen.js
-│   ├── StatsScreen.js
-│   ├── LeaderboardScreen.js
-│   └── AccountScreen.js
-├── styles.js
-├── App.js
-├── package.json
-├── app.json
-└── README.md
+├── App.js                 # Application bootstrap and global providers
+├── index.js               # Entry point
+├── app.json               # Expo configuration
+├── package.json           # Dependencies and scripts
+├── styles.js              # Centralized styling
+├── firebase.js            # Backend service integration
+├── assets/                # App icons and assets
+│
+├── components/            # Reusable UI components
+│   ├── BackButton.js
+│   ├── BottomNav.js
+│   ├── BuzzButton.js
+│   ├── MenuTile.js
+│   ├── PieProgress.js
+│   ├── Calendar.js
+│   ├── AvatarPickerModal.js
+│   ├── InlineChat.js
+│   ├── PresenceDropdown.js
+│   └── SplashScreen.js
+│
+├── chat/                  # Chat system
+│   ├── ChatContext.js     # Global chat state
+│   └── ChatRoomPane.js    # Chat UI logic
+│
+├── context/               # Global application state
+│   └── AppContext.js
+│
+├── data/                  # Certification datasets and constants
+│   ├── *.json
+│   └── constants.js
+│
+└── screens/               # Application screens
+    ├── HomeScreen.js
+    ├── LoginScreen.js
+    ├── LeaderboardScreen.js
+    ├── ChatHomeScreen.js
+    ├── VideoCallScreen.js
+    ├── VideoCallScreen.js
+    ├── VoiceCallScreen.js
+    └── ...
 ```
 
-Each screen is intentionally isolated to keep navigation logic, state handling, and UI concerns separated and maintainable.
+---
+
+## ✨ Features
+
+- Modular and reusable UI components
+- Bottom navigation and screen-based routing
+- Global application state using React Context
+- Structured certification and progress tracking
+- Chat system with shared state
+- Modal-based UI interactions
+- Calendar and progress visualization
+- Firebase service integration
+- Clean Git commit history demonstrating staged development
 
 ---
 
-## Development Approach
+## 🧠 Architectural Highlights
 
-This repository is structured to demonstrate progressive development through Git commit history.
-
-The project evolved through the following phases:
-
-1. Expo project initialization and application scaffold
-2. Navigation setup and core screen architecture
-3. Certification category selection
-4. Exam and test flow implementation
-5. Results calculation and progress tracking
-6. Leaderboard and comparison features
-7. Account management screens
-8. UI and layout refinement
-9. Documentation and repository cleanup
-
-Commits are intentionally organized to reflect how the application was built incrementally rather than delivered as a single static upload.
+- Component-based design for reusability
+- Context API for shared global state
+- Data-driven architecture separating logic and datasets
+- Scalable folder structure suitable for backend expansion
+- Professional Git workflow with staged commits and milestones
 
 ---
 
-## Running the Project Locally
+## 🎯 Purpose
 
-Install dependencies:
+This project was built to showcase:
+- Mobile application architecture
+- UI/UX design thinking
+- State management
+- Feature-based development
+- Professional Git and GitHub practices
+
+---
+
+## 🚀 Getting Started
 
 ```bash
 npm install
-```
-
-Start the Expo development server:
-
-```bash
 npx expo start
 ```
 
-The application can be run on an emulator or a physical device using the Expo client.
+---
+
+## 📌 Notes
+
+This repository is intended as a portfolio demonstration and learning project. It is structured to scale with additional backend services, authentication, and API integrations.
 
 ---
 
-## Future Improvements
+## 👤 Author
 
-- Backend persistence using Firebase or Supabase
-- Real authentication and user accounts
-- External certification question bank integration
-- Adaptive testing and difficulty scaling
-- Advanced analytics and insights dashboards
-- Admin tools for managing certifications and questions
-
----
-
-## License
-
-This project is intended for educational and portfolio purposes.
+Built and maintained by Ramon
