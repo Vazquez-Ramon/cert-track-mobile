@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "rhythm_q001",
+    "topic": "Cardiac Cycle Basics",
+    "type": "single",
+    "text": "Which vessel contains fully oxygenated blood?",
+    "options": [
+      "Blood in the right atrium is fully oxygenated",
+      "Blood in the pulmonary artery is fully oxygenated",
+      "Pulmonary veins carry oxygenated blood",
+      "Blood in the left ventricle is deoxygenated"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Pulmonary veins carry oxygenated blood\" — Correct because pulmonary veins are the ONLY veins in the human body that transport freshly oxygenated blood from the alveolar capillary beds directly to the left atrium. This occurs immediately after gas exchange in the lungs, making them the most oxygen-rich vessels in the entire circulatory system.\n\n🔴 A) \"Blood in the right atrium is fully oxygenated\" — Incorrect because the right atrium receives systemic venous return (from the SVC and IVC), which is deoxygenated blood that has already offloaded oxygen to tissues. It is the LOWEST oxygen saturation point before blood reaches the lungs.\n\n🔴 B) \"Blood in the pulmonary artery is fully oxygenated\" — Incorrect because the pulmonary artery carries DEOXYGENATED blood FROM the right ventricle TO the lungs for oxygenation. Many students confuse \"artery\" with \"oxygenated,\" but arteries simply carry blood AWAY from the heart.\n\n🔴 D) \"Blood in the left ventricle is deoxygenated\" — Incorrect because the left ventricle receives fully oxygenated blood from the left atrium and pumps it into the aorta for systemic circulation. If the LV contained deoxygenated blood, oxygen delivery to the entire body would fail."
+  },
+  {
+    "id": "rhythm_q002",
+    "topic": "Cardiac Cycle Basics",
+    "type": "single",
+    "text": "Where does blood become oxygenated?",
+    "options": [
+      "In the right ventricle",
+      "As it passes through the pulmonary capillaries in the lungs",
+      "As it enters the superior vena cava",
+      "As it passes through the coronary arteries"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"As it passes through the pulmonary capillaries in the lungs\" — Correct because oxygenation occurs exclusively at the alveolar–capillary membrane. Hemoglobin binds oxygen diffusing from the alveoli, transforming venous blood into fully oxygenated arterial blood.\n\n🔴 A) \"In the right ventricle\" — Incorrect because the right ventricle only PUMPS deoxygenated blood toward the lungs. No gas exchange occurs inside the heart.\n\n🔴 C) \"As it enters the superior vena cava\" — Incorrect because blood in the SVC is the MOST deoxygenated blood in the circulation, returning from systemic tissues.\n\n🔴 D) \"As it passes through the coronary arteries\" — Incorrect because coronary arteries deliver oxygenated blood to the myocardium; they do NOT oxygenate blood."
+  },
+  {
+    "id": "rhythm_q003",
+    "topic": "Cardiac Cycle Basics",
+    "type": "single",
+    "text": "Which chambers contain deoxygenated blood?",
+    "options": [
+      "Left atrium and left ventricle",
+      "Right atrium and right ventricle",
+      "Left atrium and right ventricle",
+      "Right atrium and left ventricle"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Right atrium and right ventricle\" — Correct because these chambers handle venous return (RA) and pump deoxygenated blood to the lungs (RV). They contain blood BEFORE oxygenation occurs.\n\n🔴 A) \"Left atrium and left ventricle\" — Incorrect because these chambers receive and pump OXYGENATED blood.\n\n🔴 C) \"Left atrium and right ventricle\" — Incorrect because LA is oxygenated, RV is deoxygenated — a physiologic mismatch.\n\n🔴 D) \"Right atrium and left ventricle\" — Incorrect because RA is deoxygenated but LV is fully oxygenated — another mismatch."
+  },
+  {
+    "id": "rhythm_q004",
+    "topic": "Cardiac Cycle Basics",
+    "type": "single",
+    "text": "Choose the correct pathway of oxygenated blood.",
+    "options": [
+      "Pulmonary veins → left atrium → left ventricle → aorta",
+      "Pulmonary artery → left atrium → left ventricle → aorta",
+      "Pulmonary veins → right atrium → right ventricle → aorta",
+      "Pulmonary artery → right atrium → right ventricle → aorta"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Pulmonary veins → left atrium → left ventricle → aorta\" — Correct because this is the TRUE physiologic route of oxygenated blood: lungs → pulmonary veins → LA → LV → systemic circulation.\n\n🔴 B) \"Pulmonary artery → left atrium → left ventricle → aorta\" — Incorrect because the pulmonary artery carries DEOXYGENATED blood from the RV to the lungs.\n\n🔴 C) \"Pulmonary veins → right atrium → right ventricle\" — Incorrect because pulmonary veins NEVER enter the right atrium in normal anatomy.\n\n🔴 D) \"Pulmonary artery → right atrium → right ventricle\" — Incorrect because this reverses normal flow and assigns oxygenated blood to the wrong vessel."
+  },
+  {
+    "id": "rhythm_q005",
+    "topic": "Conduction System",
+    "type": "single",
+    "text": "Which structure is the primary pacemaker?",
+    "options": [
+      "Atrioventricular (AV) node",
+      "Sinoatrial (SA) node",
+      "Bundle of His",
+      "Purkinje fibers"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Sinoatrial (SA) node\" — Correct because the SA node has the fastest intrinsic firing rate (60–100 bpm) and initiates each normal heartbeat. It is the heart’s dominant pacemaker.\n\n🔴 A) \"AV node\" — Incorrect because it fires slower (40–60 bpm) and mainly delays conduction to protect the ventricles.\n\n🔴 C) \"Bundle of His\" — Incorrect because it conducts impulses into the ventricles and has an intrinsic rate of only 20–40 bpm.\n\n🔴 D) \"Purkinje fibers\" — Incorrect because these are the LAST line pacemaker cells and fire the slowest."
+  },
+  {
+    "id": "rhythm_q006",
+    "topic": "Conduction System",
+    "type": "single",
+    "text": "What is the correct sequence of the cardiac conduction pathway?",
+    "options": [
+      "AV node → SA node → Bundle of His → Purkinje fibers",
+      "SA node → Purkinje fibers → AV node → Bundle of His",
+      "SA node → AV node → Bundle of His → bundle branches → Purkinje fibers",
+      "Purkinje fibers → bundle branches → AV node → SA node"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"SA → AV → His → bundle branches → Purkinje\" — Correct because this is the physiologic conduction pathway. SA initiates, AV delays, His–Purkinje rapidly depolarize the ventricles.\n\n🔴 A) \"AV → SA → His\" — Incorrect reversal of sequence; SA must fire first.\n\n🔴 B) \"SA → Purkinje → AV\" — Incorrect; conduction cannot bypass the AV node and travel backward.\n\n🔴 D) \"Purkinje → AV → SA\" — Incorrect; completely reverses normal conduction flow."
+  },
+  {
+    "id": "rhythm_q007",
+    "topic": "Conduction System",
+    "type": "single",
+    "text": "Where is the AV node located?",
+    "options": [
+      "High in the right atrium near the SVC",
+      "In the interventricular septum near the Bundle of His",
+      "Low in the right atrium near the tricuspid valve",
+      "At the apex of the left ventricle"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Low in the right atrium near the tricuspid valve\" — Correct because the AV node sits at the atrioventricular junction, allowing it to regulate conduction between atria and ventricles.\n\n🔴 A) \"High right atrium\" — Incorrect; that describes the SA node.\n\n🔴 B) \"Interventricular septum\" — Incorrect; location of the Bundle of His.\n\n🔴 D) \"Apex of LV\" — Incorrect; unrelated to conduction nodes."
+  },
+  {
+    "id": "rhythm_q008",
+    "topic": "Conduction System",
+    "type": "single",
+    "text": "Which structure conducts impulses MOST rapidly through the ventricles?",
+    "options": [
+      "SA node",
+      "AV node",
+      "Bundle branches",
+      "Purkinje fibers"
+    ],
+    "correctIndex": 3,
+    "explanation": "🟢 D) \"Purkinje fibers\" — Correct because Purkinje fibers provide extremely rapid ventricular depolarization, producing a narrow QRS complex.\n\n🔴 A) \"SA node\" — Incorrect; initiates impulse but does not conduct through ventricles.\n\n🔴 B) \"AV node\" — Incorrect; actually slows conduction to allow atrial emptying.\n\n🔴 C) \"Bundle branches\" — Incorrect; they conduct down the septum but are slower than Purkinje fibers."
+  },
+  {
+    "id": "rhythm_q009",
+    "topic": "EKG Basics",
+    "type": "single",
+    "text": "A 12-lead ECG provides information about what?",
+    "options": [
+      "Mechanical contraction of the heart muscle",
+      "Blood pressure in each ventricle",
+      "Electrical activity of the heart from different angles",
+      "Amount of oxygen in the coronary arteries"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Electrical activity from different angles\" — Correct because a 12-lead ECG views cardiac depolarization and repolarization across multiple frontal and horizontal planes, enabling localization of ischemia.\n\n🔴 A) \"Mechanical contraction\" — Incorrect; ECG records electrical activity, not mechanical function.\n\n🔴 B) \"Blood pressure\" — Incorrect; requires invasive hemodynamic monitoring.\n\n🔴 D) \"Oxygen amount in coronaries\" — Incorrect; ECG cannot measure oxygen content directly."
+  },
+  {
+    "id": "rhythm_q010",
+    "topic": "Artifact",
+    "type": "single",
+    "text": "A patient brushing their teeth creates irregular waves on the ECG. What is this most likely?",
+    "options": [
+      "Atrial fibrillation",
+      "Artifact",
+      "Ventricular fibrillation",
+      "Torsades de pointes"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Artifact\" — Correct because skeletal muscle activity and movement create baseline distortion, mimicking arrhythmia but without symptoms. A patient who is awake and brushing their teeth CANNOT be in a lethal rhythm.\n\n🔴 A) \"Atrial fibrillation\" — Incorrect; Afib shows irregularly irregular R-R intervals with absent P-waves, not movement-linked artifacts.\n\n🔴 C) \"Ventricular fibrillation\" — Incorrect; VF causes immediate collapse and pulselessness.\n\n🔴 D) \"Torsades de pointes\" — Incorrect; torsades has polymorphic QRS complexes, not motion-artifact patterns."
+  },
+  {
+    "id": "rhythm_q011",
+    "topic": "Artifact",
+    "type": "single",
+    "text": "You suspect ECG artifact. What is the FIRST thing you should do?",
+    "options": [
+      "Call a code blue immediately",
+      "Increase the patient's oxygen",
+      "Check the patient and the leads to ensure they are attached correctly",
+      "Give atropine"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Check the patient and the leads to ensure they are attached correctly\" — Correct because the FIRST priority in suspected artifact is confirming the patient’s actual status and ensuring electrodes are secure. Artifact can mimic life-threatening arrhythmias, so verifying lead placement and assessing the patient prevents unnecessary interventions.\n\n🔴 A) \"Call a code blue immediately\" — Incorrect because you NEVER call a code based solely on a suspicious ECG tracing. Many life-threatening rhythms are mimicked by artifact, and calling a code without assessing the patient can lead to dangerous and inappropriate interventions.\n\n🔴 B) \"Increase the patient’s oxygen\" — Incorrect because oxygen administration has nothing to do with diagnosing artifact. Oxygen does not correct poor electrode contact, patient movement, or loose wires.\n\n🔴 D) \"Give atropine\" — Incorrect because atropine treats symptomatic bradycardia, not artifact. Giving it without confirming the rhythm could cause harmful tachyarrhythmias."
+  },
+  {
+    "id": "rhythm_q012",
+    "topic": "12-Lead ECG Purpose",
+    "type": "single",
+    "text": "What is a primary purpose of a 12-lead ECG?",
+    "options": [
+      "Only one limb lead is needed for a 12-lead ECG",
+      "It allows us to identify the precise location of a myocardial infarction",
+      "It directly measures cardiac output",
+      "It is only used to detect sinus rhythms"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Identify the precise location of an MI\" — Correct because a 12-lead ECG views the heart from multiple angles (inferior, anterior, septal, lateral), allowing localization of ischemia or infarction. ST elevation patterns directly correlate with coronary artery territories, which is essential for rapid STEMI identification.\n\n🔴 A) \"Only one limb lead is needed\" — Incorrect because a true 12-lead requires 4 limb electrodes + 6 precordial electrodes. A single limb lead produces only a limited rhythm strip.\n\n🔴 C) \"It directly measures cardiac output\" — Incorrect because ECG detects electrical signals only. Cardiac output is determined via echocardiography, invasive catheters, or hemodynamic monitoring.\n\n🔴 D) \"It is only used to detect sinus rhythms\" — Incorrect; 12-leads diagnose ischemia, arrhythmias, conduction blocks, electrolyte disturbances, and chamber enlargement."
+  },
+  {
+    "id": "rhythm_q013",
+    "topic": "P-QRS-T Basics",
+    "type": "single",
+    "text": "What does the P-wave represent?",
+    "options": [
+      "Ventricular depolarization",
+      "Atrial depolarization",
+      "Ventricular repolarization",
+      "Atrial repolarization"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Atrial depolarization\" — Correct because the P-wave represents the electrical activation of the atria as the SA node fires and the impulse spreads through atrial myocardium.\n\n🔴 A) \"Ventricular depolarization\" — Incorrect because this is represented by the QRS complex, not the P-wave.\n\n🔴 C) \"Ventricular repolarization\" — Incorrect because this corresponds to the T-wave.\n\n🔴 D) \"Atrial repolarization\" — Incorrect because atrial repolarization occurs but is hidden within the QRS complex and not visible on surface ECG."
+  },
+  {
+    "id": "rhythm_q014",
+    "topic": "P-QRS-T Basics",
+    "type": "single",
+    "text": "Which ECG component represents ventricular depolarization?",
+    "options": [
+      "P-wave",
+      "QRS complex",
+      "T-wave",
+      "PR interval"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"QRS complex\" — Correct because ventricular depolarization requires rapid, high-amplitude electrical activity, which is seen as the QRS complex.\n\n🔴 A) \"P-wave\" — Incorrect because it represents atrial depolarization.\n\n🔴 C) \"T-wave\" — Incorrect because it represents ventricular repolarization (resting phase).\n\n🔴 D) \"PR interval\" — Incorrect because it measures the time from atrial depolarization to the start of ventricular depolarization, not the depolarization itself."
+  },
+  {
+    "id": "rhythm_q015",
+    "topic": "P-QRS-T Basics",
+    "type": "single",
+    "text": "What does the T-wave represent?",
+    "options": [
+      "Ventricular repolarization",
+      "Atrial depolarization",
+      "Atrial contraction",
+      "Ventricular depolarization"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Ventricular repolarization\" — Correct because the T-wave marks the electrical recovery phase of the ventricles, preparing them for the next depolarization cycle.\n\n🔴 B) \"Atrial depolarization\" — Incorrect; that is shown by the P-wave.\n\n🔴 C) \"Atrial contraction\" — Incorrect; contraction is mechanical and follows atrial depolarization — it is not represented by the T-wave.\n\n🔴 D) \"Ventricular depolarization\" — Incorrect; represented by the QRS complex."
+  },
+  {
+    "id": "rhythm_q016",
+    "topic": "Cardiac Output",
+    "type": "single",
+    "text": "What is the definition of cardiac output?",
+    "options": [
+      "The volume of blood ejected from the left ventricle each beat",
+      "The volume of blood ejected from the right ventricle each beat",
+      "The volume of blood pumped by the heart in one minute",
+      "The pressure in the aorta during systole"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"The volume of blood pumped by the heart in one minute\" — Correct because cardiac output = stroke volume × heart rate. It reflects overall perfusion capacity.\n\n🔴 A) \"LV ejection per beat\" — Incorrect; that is stroke volume.\n\n🔴 B) \"RV ejection per beat\" — Incorrect; also stroke volume.\n\n🔴 D) \"Aortic pressure during systole\" — Incorrect; that is systolic blood pressure, not cardiac output."
+  },
+  {
+    "id": "rhythm_q017",
+    "topic": "Cardiac Output",
+    "type": "single",
+    "text": "Which findings indicate decreased cardiac output?",
+    "options": [
+      "Warm, flushed skin and bounding pulses",
+      "Hypotension, cool extremities, and altered mental status",
+      "Hypertension and increased urine output",
+      "Bradycardia with no other symptoms"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Hypotension, cool extremities, altered mental status\" — Correct because these findings reflect inadequate tissue perfusion. Cool extremities and confusion imply the body is prioritizing blood flow to vital organs.\n\n🔴 A) \"Warm, flushed skin\" — Incorrect because it indicates vasodilation and adequate perfusion, not decreased output.\n\n🔴 C) \"Hypertension with high urine output\" — Incorrect; good renal perfusion suggests adequate cardiac output.\n\n🔴 D) \"Bradycardia with no symptoms\" — Incorrect because asymptomatic bradycardia can be normal, especially in athletes."
+  },
+  {
+    "id": "rhythm_q018",
+    "topic": "ECG Intervals",
+    "type": "single",
+    "text": "Which interval reflects the time from the beginning of atrial depolarization to the beginning of ventricular depolarization?",
+    "options": [
+      "PR interval",
+      "QRS duration",
+      "QT interval",
+      "ST segment"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"PR interval\" — Correct because it spans from the start of the P-wave (atrial depolarization) to the start of the QRS (ventricular depolarization), representing AV nodal conduction time.\n\n🔴 B) \"QRS duration\" — Incorrect; represents the time required for ventricular depolarization only.\n\n🔴 C) \"QT interval\" — Incorrect; includes ventricular depolarization and repolarization.\n\n🔴 D) \"ST segment\" — Incorrect; this represents the period when the ventricles are depolarized before repolarization begins."
+  },
+  {
+    "id": "rhythm_q019",
+    "topic": "ECG Intervals",
+    "type": "single",
+    "text": "Which statement about ECG intervals is TRUE?",
+    "options": [
+      "There are no standard normal ranges for ECG intervals",
+      "The QRS complex represents ventricular depolarization and has a normal time range",
+      "The QT interval is not clinically relevant",
+      "The ST segment always indicates ischemia"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"The QRS complex represents ventricular depolarization and has a normal time range\" — Correct because the QRS duration normally ranges from 0.06 to 0.10 seconds. A widened QRS suggests conduction delay (e.g., bundle branch block, ventricular rhythm).\n\n🔴 A) \"No standard normal ranges\" — Incorrect; ECG interpretation REQUIRES normal ranges.\n\n🔴 C) \"QT interval not relevant\" — Incorrect; prolonged QT predisposes to torsades de pointes and sudden death.\n\n🔴 D) \"ST segment always indicates ischemia\" — Incorrect; normal ST segments are isoelectric — only deviations indicate ischemia."
+  },
+  {
+    "id": "rhythm_q020",
+    "topic": "Rhythm ID Basics",
+    "type": "single",
+    "text": "How do you estimate heart rate on a 6-second strip?",
+    "options": [
+      "Count the number of QRS complexes in 6 seconds and multiply by 10",
+      "Count the number of P-waves and multiply by 20",
+      "Count the number of large boxes between R-waves and divide 300 by that number",
+      "Count the T-waves in one minute"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Count QRS in 6 seconds ×10\" — Correct because a 6-second rhythm strip multiplied by 10 gives an approximate beats-per-minute value. This is the fastest and most reliable bedside method.\n\n🔴 B) \"Count P-waves ×20\" — Incorrect; P-wave counting is unreliable because P-waves may be absent or variable.\n\n🔴 C) \"300 rule\" — Incorrect in this context; it is a valid method but NOT the 6-second strip technique.\n\n🔴 D) \"Count T-waves\" — Incorrect because T-waves do not represent heart rate and may be distorted or inverted."
+  },
+  {
+    "id": "rhythm_q021",
+    "topic": "Rhythm ID Basics",
+    "type": "single",
+    "text": "Which ECG method can be used to calculate heart rate from consecutive R-waves?",
+    "options": [
+      "Count the number of small boxes between two R-waves and divide 1500 by that number",
+      "Count the number of P-waves in a minute",
+      "Multiply the QRS amplitude by 10",
+      "Measure T-wave height and divide by PR interval"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"1500 ÷ small boxes between R-waves\" — Correct because this is the most precise heart-rate calculation when the rhythm is REGULAR. One minute of ECG paper contains **1500 small boxes**, so dividing 1500 by the number of small boxes between consecutive R-peaks yields the exact ventricular rate.\n\n🔴 B) \"Count P-waves in a minute\" — Incorrect because P-waves may be absent (e.g., Afib), inverted, hidden, or non-conducted, making this unreliable.\n\n🔴 C) \"Multiply QRS amplitude ×10\" — Incorrect because amplitude has NOTHING to do with rate. It reflects voltage, lead positioning, or hypertrophy.\n\n🔴 D) \"Measure T-wave height and divide\" — Incorrect; T-wave morphology is unrelated to heart rate and can be influenced by ischemia, electrolytes, medications, or hyperkalemia."
+  },
+  {
+    "id": "rhythm_q022",
+    "topic": "SB / ST Basics",
+    "type": "single",
+    "text": "What primarily determines whether sinus bradycardia is treated?",
+    "options": [
+      "The exact heart rate number",
+      "The presence of symptoms such as hypotension or altered mental status",
+      "The patient's age",
+      "Whether the QRS is wide or narrow"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Presence of symptoms\" — Correct because ACLS guidelines state that bradycardia is only treated if it is **symptomatic and causing hemodynamic instability**, such as hypotension, dizziness, SOB, syncope, or altered mental status. A low heart rate alone is NOT an indication for treatment.\n\n🔴 A) \"Exact heart rate\" — Incorrect because many healthy adults (especially athletes) normally have heart rates <60 with NO symptoms.\n\n🔴 C) \"Age\" — Incorrect; age does not determine treatment unless symptoms are present.\n\n🔴 D) \"QRS width\" — Incorrect; QRS width helps identify origin (junctional vs ventricular), not treatment need."
+  },
+  {
+    "id": "rhythm_q023",
+    "topic": "SB / ST Basics",
+    "type": "single",
+    "text": "Which symptom most strongly indicates that sinus bradycardia is causing decreased cardiac output?",
+    "options": [
+      "Warm skin",
+      "Dizziness or syncope",
+      "Increased urine output",
+      "Nasal congestion"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Dizziness or syncope\" — Correct because these symptoms indicate **cerebral hypoperfusion**, which is a hallmark sign of decreased cardiac output in symptomatic bradycardia.\n\n🔴 A) \"Warm skin\" — Incorrect; warm skin suggests good perfusion.\n\n🔴 C) \"Increased urine output\" — Incorrect; high urine output indicates adequate renal perfusion, NOT decreased output.\n\n🔴 D) \"Nasal congestion\" — Incorrect; unrelated to cardiac output."
+  },
+  {
+    "id": "rhythm_q024",
+    "topic": "SB / ST Basics",
+    "type": "single",
+    "text": "A patient with symptomatic sinus bradycardia is unstable. What is the FIRST treatment?",
+    "options": [
+      "Synchronized cardioversion",
+      "Atropine 0.5 mg IV push",
+      "Transcutaneous pacing",
+      "Adenosine 6 mg rapid IV push"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Atropine 0.5 mg IV\" — Correct because atropine is the FIRST-LINE ACLS drug for symptomatic bradycardia. It blocks vagal stimulation, increasing SA node firing and AV conduction.\n\n🔴 A) \"Cardioversion\" — Incorrect because cardioversion is used for tachyarrhythmias, not bradycardia.\n\n🔴 C) \"Transcutaneous pacing\" — Incorrect as FIRST step; it is used when atropine fails or in severe unstable cases where atropine is ineffective.\n\n🔴 D) \"Adenosine\" — Incorrect; adenosine is used for SVT, not bradycardia."
+  },
+  {
+    "id": "rhythm_q025",
+    "topic": "SB / ST Basics",
+    "type": "single",
+    "text": "Which ECG finding supports the diagnosis of sinus tachycardia?",
+    "options": [
+      "Rate >100 bpm with upright P-waves before every QRS",
+      "Wide QRS complexes without P-waves",
+      "No identifiable P-waves and irregularly irregular rhythm",
+      "Sawtooth flutter waves"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Rate >100 with upright P-waves\" — Correct because sinus tachycardia originates from the SA node, so every QRS should be preceded by a normal P-wave. The rate is typically 100–160 bpm.\n\n🔴 B) \"Wide QRS without P-waves\" — Incorrect; suggests ventricular tachycardia.\n\n🔴 C) \"No P-waves + irregularly irregular\" — Incorrect; this describes atrial fibrillation.\n\n🔴 D) \"Sawtooth waves\" — Incorrect; classic for atrial flutter, not sinus tachycardia."
+  },
+  {
+    "id": "rhythm_q026",
+    "topic": "SB / ST Basics",
+    "type": "single",
+    "text": "Which condition commonly causes sinus tachycardia?",
+    "options": [
+      "Hypovolemia",
+      "Beta-blocker overdose",
+      "SA node failure",
+      "Hyperkalemia"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Hypovolemia\" — Correct because decreased circulating volume triggers a sympathetic response to increase heart rate and maintain cardiac output. Tachycardia is often the FIRST vital sign abnormality in bleeding or dehydration.\n\n🔴 B) \"Beta-blocker overdose\" — Incorrect; this causes bradycardia, not tachycardia.\n\n🔴 C) \"SA node failure\" — Incorrect; would produce junctional or escape rhythms, not tachycardia.\n\n🔴 D) \"Hyperkalemia\" — Incorrect; tends to cause peaked T-waves, widening QRS, bradyarrhythmias, and sine-wave patterns — not sinus tachycardia."
+  },
+  {
+    "id": "rhythm_q027",
+    "topic": "SB / ST Basics",
+    "type": "single",
+    "text": "A patient has sinus tachycardia due to pain. What is the appropriate treatment?",
+    "options": [
+      "Adenosine",
+      "Treat the underlying cause",
+      "Synchronized cardioversion",
+      "Atropine"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Treat the underlying cause\" — Correct because sinus tachycardia is a physiologic response, not a primary arrhythmia. Pain, anxiety, fever, hypovolemia, or sepsis must be corrected rather than suppressing the heart rate artificially.\n\n🔴 A) \"Adenosine\" — Incorrect; used for SVT, not sinus tach.\n\n🔴 C) \"Cardioversion\" — Incorrect; sinus tach is not a shockable rhythm.\n\n🔴 D) \"Atropine\" — Incorrect; atropine increases heart rate — the opposite of what the patient needs."
+  },
+  {
+    "id": "rhythm_q028",
+    "topic": "AFib Basics",
+    "type": "single",
+    "text": "Which ECG finding is characteristic of atrial fibrillation?",
+    "options": [
+      "Regular rhythm with identical P-waves",
+      "Irregularly irregular rhythm with no identifiable P-waves",
+      "Sawtooth flutter waves with fixed conduction",
+      "Wide QRS complexes with fusion beats"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Irregularly irregular with no P-waves\" — Correct because Afib produces chaotic atrial electrical activity with no organized P-wave formation and highly variable R-R intervals.\n\n🔴 A) \"Regular rhythm with identical P-waves\" — Incorrect; describes normal sinus rhythm or atrial tachycardia.\n\n🔴 C) \"Sawtooth waves\" — Incorrect; indicates atrial flutter.\n\n🔴 D) \"Wide QRS with fusion beats\" — Incorrect; suggests ventricular tachycardia."
+  },
+  {
+    "id": "rhythm_q029",
+    "topic": "AFib Basics",
+    "type": "single",
+    "text": "What is the MOST dangerous complication of atrial fibrillation?",
+    "options": [
+      "Hypotension from rapid heart rate",
+      "Stroke from atrial thrombus formation",
+      "Bradycardia",
+      "Premature atrial contractions"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Stroke from atrial thrombus\" — Correct because blood pooling in the fibrillating atria promotes clot formation in the left atrial appendage. Embolization can cause ischemic stroke — the most feared complication of Afib.\n\n🔴 A) \"Hypotension\" — Incorrect; possible in RVR but not the MOST dangerous long-term risk.\n\n🔴 C) \"Bradycardia\" — Incorrect; rare in Afib unless heavily medicated.\n\n🔴 D) \"PACs\" — Incorrect; benign and NOT a complication."
+  },
+  {
+    "id": "rhythm_q030",
+    "topic": "AFib Basics",
+    "type": "single",
+    "text": "A patient with new-onset Afib has rapid ventricular response (RVR). What is the priority?",
+    "options": [
+      "Control the ventricular rate",
+      "Immediately cardiovert all patients",
+      "Start high-dose magnesium",
+      "Stop all medications and recheck in a few hours"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Control the ventricular rate\" — Correct because a rapid ventricular response (>110–120 bpm) can severely reduce cardiac output. First-line therapy includes beta-blockers or calcium-channel blockers to slow the AV node.\n\n🔴 B) \"Immediately cardiovert all patients\" — Incorrect; cardioversion is reserved for unstable patients OR when onset <48 hours and clot risk is low.\n\n🔴 C) \"High-dose magnesium\" — Incorrect; magnesium helps torsades and some ventricular dysrhythmias, not Afib-RVR.\n\n🔴 D) \"Stop medications and recheck later\" — Incorrect; RVR requires active management to prevent hemodynamic compromise."
+  },
+  {
+    "id": "rhythm_q031",
+    "topic": "AFib Basics",
+    "type": "single",
+    "text": "Which patient with atrial fibrillation requires IMMEDIATE synchronized cardioversion?",
+    "options": [
+      "Patient with mild palpitations but stable vitals",
+      "Patient with altered mental status and systolic BP 70",
+      "Patient with controlled rate (HR 88) but fatigue",
+      "Patient with occasional PACs on the monitor"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Altered mental status + SBP 70\" — Correct because this patient is hemodynamically UNSTABLE. ACLS guidelines: unstable Afib (hypotension, shock, AMS, acute HF) requires *immediate synchronized cardioversion*.\n\n🔴 A) \"Mild palpitations\" — Incorrect; symptoms mild and vitals stable → NOT unstable.\n\n🔴 C) \"Controlled rate (HR 88) + fatigue\" — Incorrect; rate-controlled Afib is not an emergency.\n\n🔴 D) \"Occasional PACs\" — Incorrect; PACs are benign ectopics and irrelevant to emergency cardioversion."
+  },
+  {
+    "id": "rhythm_q032",
+    "topic": "AFib Basics",
+    "type": "single",
+    "text": "What is the hallmark of atrial flutter?",
+    "options": [
+      "Irregularly irregular rhythm",
+      "Sawtooth flutter waves",
+      "No QRS complexes",
+      "Pr interval progressively lengthens"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Sawtooth flutter waves\" — Correct because atrial flutter produces rapid, organized atrial activity best seen as sawtooth F-waves in leads II, III, aVF.\n\n🔴 A) \"Irregularly irregular\" — Incorrect; that describes atrial fibrillation.\n\n🔴 C) \"No QRS\" — Incorrect; QRS complexes are present unless there is complete heart block.\n\n🔴 D) \"Progressively lengthening PR interval\" — Incorrect; describes Wenckebach (Mobitz I AV block)."
+  },
+  {
+    "id": "rhythm_q033",
+    "topic": "Atrial Flutter",
+    "type": "single",
+    "text": "Atrial flutter is usually associated with which atrial rate?",
+    "options": [
+      "60–100 bpm",
+      "150–300 bpm",
+      "300–600 bpm",
+      "20–40 bpm"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"150–300 bpm\" — Correct because atrial flutter typically involves a reentry circuit producing atrial rates around 250–350 bpm. The ventricular response depends on the AV block ratio (e.g., 2:1 gives ~150 bpm).\n\n🔴 A) \"60–100\" — Incorrect; normal atrial rate.\n\n🔴 C) \"300–600\" — Incorrect; this is the chaotic atrial rate in atrial fibrillation.\n\n🔴 D) \"20–40\" — Incorrect; this is the intrinsic rate of ventricular escape rhythms."
+  },
+  {
+    "id": "rhythm_q034",
+    "topic": "Atrial Flutter",
+    "type": "single",
+    "text": "Which finding helps distinguish atrial flutter from atrial fibrillation?",
+    "options": [
+      "Flutter has sawtooth waves; fibrillation has chaotic baseline",
+      "Flutter has wide QRS complexes",
+      "Flutter has no P-waves or atrial activity",
+      "Flutter always has a ventricular rate below 60"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Sawtooth vs chaotic baseline\" — Correct because flutter has organized F-waves, while Afib shows completely disorganized atrial activity.\n\n🔴 B) \"Wide QRS\" — Incorrect; QRS width depends on conduction, NOT atrial rhythm.\n\n🔴 C) \"No atrial activity\" — Incorrect; flutter has very visible atrial activity (F-waves).\n\n🔴 D) \"Ventricular rate <60\" — Incorrect; rate varies with block ratio and is often ~150 bpm."
+  },
+  {
+    "id": "rhythm_q035",
+    "topic": "SVT Basics",
+    "type": "single",
+    "text": "Which ECG finding is most consistent with supraventricular tachycardia (SVT)?",
+    "options": [
+      "Regular narrow QRS tachycardia",
+      "Irregular rhythm with no P-waves",
+      "Wide QRS with fusion beats",
+      "Sawtooth waves with regular conduction"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Regular narrow QRS tachycardia\" — Correct because SVT characteristically presents with HR 150–250, narrow QRS, and often hidden P-waves due to retrograde conduction.\n\n🔴 B) \"Irregular with no P-waves\" — Incorrect; this describes Afib.\n\n🔴 C) \"Wide QRS with fusion beats\" — Incorrect; this is classic for ventricular tachycardia.\n\n🔴 D) \"Sawtooth waves\" — Incorrect; hallmark of atrial flutter."
+  },
+  {
+    "id": "rhythm_q036",
+    "topic": "SVT Basics",
+    "type": "single",
+    "text": "What is the FIRST intervention for stable SVT?",
+    "options": [
+      "Adenosine",
+      "Synchronized cardioversion",
+      "Vagal maneuvers",
+      "Amiodarone infusion"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Vagal maneuvers\" — Correct because ACLS dictates vagal maneuvers (Valsalva, carotid massage—if appropriate) as FIRST-LINE for stable SVT to slow AV node conduction and potentially terminate the rhythm.\n\n🔴 A) \"Adenosine\" — Incorrect as FIRST step; used AFTER vagal maneuvers fail.\n\n🔴 B) \"Cardioversion\" — Incorrect; reserved for unstable SVT or refractory stable SVT.\n\n🔴 D) \"Amiodarone\" — Incorrect; not first-line for SVT and used more for ventricular arrhythmias."
+  },
+  {
+    "id": "rhythm_q037",
+    "topic": "SVT Basics",
+    "type": "single",
+    "text": "Adenosine works primarily by acting on which structure?",
+    "options": [
+      "SA node",
+      "Purkinje fibers",
+      "AV node",
+      "Left bundle branch"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"AV node\" — Correct because adenosine causes transient AV nodal block, interrupting reentry circuits that require the AV node (AVNRT, AVRT). This allows the SA node to regain control.\n\n🔴 A) \"SA node\" — Incorrect; adenosine may briefly slow it but SA is NOT the primary target.\n\n🔴 B) \"Purkinje fibers\" — Incorrect; these conduct ventricular impulses, not the target of adenosine.\n\n🔴 D) \"Left bundle branch\" — Incorrect; bundle branches are unaffected by adenosine."
+  },
+  {
+    "id": "rhythm_q038",
+    "topic": "SVT Basics",
+    "type": "single",
+    "text": "Adenosine is contraindicated in which situation?",
+    "options": [
+      "Irregular wide-complex tachycardia",
+      "Stable SVT",
+      "Orthodromic AVRT",
+      "Narrow complex tachycardia with visible P-waves"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Irregular wide-complex tachycardia\" — Correct because this may be atrial fibrillation with WPW. Giving adenosine blocks the AV node and forces conduction down the accessory pathway, triggering **ventricular fibrillation** — potentially fatal.\n\n🔴 B) \"Stable SVT\" — Incorrect; adenosine is indicated after vagal maneuvers fail.\n\n🔴 C) \"Orthodromic AVRT\" — Incorrect; adenosine can terminate AVRT because it blocks the AV node.\n\n🔴 D) \"Narrow complex tachycardia with P-waves\" — Incorrect; adenosine is safe here."
+  },
+  {
+    "id": "rhythm_q039",
+    "topic": "SVT Basics",
+    "type": "single",
+    "text": "During adenosine administration, what transient effect is most expected?",
+    "options": [
+      "Asystole lasting 1–3 seconds",
+      "Profound hypertension",
+      "Wide QRS tachycardia",
+      "Long QT interval"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"1–3 seconds of asystole\" — Correct because adenosine briefly stops AV node conduction. This can appear as a flatline and is NORMAL and expected as the SA node resumes control.\n\n🔴 B) \"Hypertension\" — Incorrect; adenosine causes brief hypotension and flushing, not hypertension.\n\n🔴 C) \"Wide QRS\" — Incorrect; adenosine doesn’t widen QRS (unless diagnosing SVT vs VT).\n\n🔴 D) \"Long QT\" — Incorrect; QT prolongation is unrelated to adenosine."
+  },
+  {
+    "id": "rhythm_q040",
+    "topic": "SVT Basics",
+    "type": "single",
+    "text": "A patient with SVT becomes unstable (hypotension, chest pain). What is the immediate action?",
+    "options": [
+      "Administer 6 mg adenosine",
+      "Perform synchronized cardioversion",
+      "Attempt carotid massage",
+      "Start amiodarone infusion"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Synchronized cardioversion\" — Correct because unstable SVT requires immediate electricity — per ACLS. Hypotension, chest pain, AMS, or acute HF = cardioversion.\n\n🔴 A) \"Adenosine\" — Incorrect; adenosine is NOT used when unstable.\n\n🔴 C) \"Carotid massage\" — Incorrect; unsafe and too slow in unstable patients.\n\n🔴 D) \"Amiodarone\" — Incorrect; not an emergency therapy for unstable SVT — cardioversion is faster and safer."
+  },
+  {
+    "id": "rhythm_q041",
+    "topic": "Junctional Rhythms",
+    "type": "single",
+    "text": "Which ECG finding is most consistent with a junctional rhythm?",
+    "options": [
+      "Upright P-waves before every QRS",
+      "Absent or inverted P-waves with a narrow QRS",
+      "Wide QRS complexes with fusion beats",
+      "Sawtooth flutter waves"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Absent or inverted P-waves with a narrow QRS\" — Correct because junctional rhythms originate near the AV node. Retrograde atrial depolarization produces inverted P-waves (or no visible P-waves), and ventricular depolarization still uses the normal His–Purkinje system, keeping the QRS narrow.\n\n🔴 A) \"Upright P-waves before every QRS\" — Incorrect; this indicates sinus rhythm, NOT junctional.\n\n🔴 C) \"Wide QRS with fusion beats\" — Incorrect; classic for ventricular tachycardia.\n\n🔴 D) \"Sawtooth waves\" — Incorrect; hallmark of atrial flutter."
+  },
+  {
+    "id": "rhythm_q042",
+    "topic": "Junctional Rhythms",
+    "type": "single",
+    "text": "What is the typical intrinsic rate of a junctional escape rhythm?",
+    "options": [
+      "10–20 bpm",
+      "40–60 bpm",
+      "60–100 bpm",
+      "100–150 bpm"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"40–60 bpm\" — Correct because the AV junctional focus fires at 40–60 bpm when the SA node fails or conduction is blocked.\n\n🔴 A) \"10–20 bpm\" — Incorrect; far too slow — seen in terminal rhythms or severe conduction disease.\n\n🔴 C) \"60–100 bpm\" — Incorrect; represents sinus rhythm.\n\n🔴 D) \"100–150 bpm\" — Incorrect; would indicate junctional tachycardia, not an escape rhythm."
+  },
+  {
+    "id": "rhythm_q043",
+    "topic": "Junctional Rhythms",
+    "type": "single",
+    "text": "What usually triggers a junctional escape rhythm?",
+    "options": [
+      "A hyperactive SA node",
+      "Failure of the SA node or blocked conduction",
+      "Severe hypokalemia",
+      "ST elevation in anterior leads"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Failure of the SA node or blocked conduction\" — Correct because a junctional escape rhythm is a protective backup when the SA node slows, stops, or cannot conduct through the AV node.\n\n🔴 A) \"Hyperactive SA node\" — Incorrect; an overactive SA node causes tachycardia, not junctional escape.\n\n🔴 C) \"Severe hypokalemia\" — Incorrect; may cause U-waves and ectopy but not a pure junctional escape.\n\n🔴 D) \"Anterior ST elevation\" — Incorrect; this indicates acute LAD STEMI, not a cause of junctional rhythm."
+  },
+  {
+    "id": "rhythm_q044",
+    "topic": "Junctional Rhythms",
+    "type": "single",
+    "text": "Which feature differentiates accelerated junctional rhythm from junctional escape?",
+    "options": [
+      "Accelerated has wide QRS complexes",
+      "Accelerated has a rate 60–100 bpm",
+      "Accelerated has sawtooth flutter waves",
+      "Accelerated lacks P-waves, while escape always has upright P-waves"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Rate 60–100 bpm\" — Correct because accelerated junctional rhythm fires faster than a junctional escape (40–60), but slower than junctional tachycardia (>100).\n\n🔴 A) \"Wide QRS\" — Incorrect; QRS is typically narrow in ALL junctional rhythms.\n\n🔴 C) \"Sawtooth waves\" — Incorrect; this is atrial flutter.\n\n🔴 D) \"Escape always has upright P-waves\" — Incorrect; junctional rhythms have inverted, absent, or retrograde P-waves."
+  },
+  {
+    "id": "rhythm_q045",
+    "topic": "Junctional Rhythms",
+    "type": "single",
+    "text": "In a junctional rhythm, inverted P-waves may appear in which location?",
+    "options": [
+      "Before the QRS",
+      "After the QRS",
+      "Hidden within the QRS",
+      "Any of the above"
+    ],
+    "correctIndex": 3,
+    "explanation": "🟢 D) \"Any of the above\" — Correct because the timing of retrograde atrial depolarization varies. The inverted P-wave may appear before, after, or be hidden inside the QRS complex depending on conduction timing.\n\n🔴 A) \"Before QRS only\" — Incorrect; not limited to this location.\n\n🔴 B) \"After QRS only\" — Incorrect; retrograde conduction may place it after, before, or inside the QRS.\n\n🔴 C) \"Hidden within QRS only\" — Incorrect; only one possible location."
+  },
+  {
+    "id": "rhythm_q046",
+    "topic": "PVC Basics",
+    "type": "single",
+    "text": "Which finding is characteristic of a premature ventricular contraction (PVC)?",
+    "options": [
+      "Narrow QRS with upright P-wave",
+      "Early wide bizarre QRS complex",
+      "Sawtooth waves with variable conduction",
+      "Short PR interval with delta wave"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Early wide bizarre QRS\" — Correct because PVCs originate in ventricular tissue, producing an early beat that bypasses the His–Purkinje system → causing a wide, abnormal QRS.\n\n🔴 A) \"Narrow QRS + P-wave\" — Incorrect; describes normal sinus conduction.\n\n🔴 C) \"Sawtooth waves\" — Incorrect; atrial flutter.\n\n🔴 D) \"Delta wave + short PR\" — Incorrect; indicates Wolff–Parkinson–White syndrome."
+  },
+  {
+    "id": "rhythm_q047",
+    "topic": "PVC Basics",
+    "type": "single",
+    "text": "What is a compensatory pause?",
+    "options": [
+      "A long pause before a PVC",
+      "A pause following a PVC allowing the SA node to reset timing",
+      "A pause seen only in atrial fibrillation",
+      "A normal variation in PR interval"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Pause following a PVC allowing SA node reset\" — Correct because after a PVC, the SA node fires at its normal time, but ventricles may not respond immediately. This produces a pause that compensates for the premature beat.\n\n🔴 A) \"Pause before PVC\" — Incorrect; PVCs occur early, not after a pause.\n\n🔴 C) \"Seen only in Afib\" — Incorrect; Afib has no predictable pauses.\n\n🔴 D) \"Variation in PR interval\" — Incorrect; PR variability relates to AV block, not PVC pauses."
+  },
+  {
+    "id": "rhythm_q048",
+    "topic": "PVC Basics",
+    "type": "single",
+    "text": "Which PVC pattern is most concerning?",
+    "options": [
+      "Isolated unifocal PVCs",
+      "Occasional interpolated PVCs",
+      "Multifocal PVCs with runs of ventricular tachycardia",
+      "PVCs occurring only during sleep"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Multifocal PVCs with runs of VT\" — Correct because PVCs from multiple ventricular foci + runs of VT indicate severe ventricular irritability and risk for sustained VT or VF.\n\n🔴 A) \"Isolated unifocal PVCs\" — Incorrect; generally benign.\n\n🔴 B) \"Interpolated PVCs\" — Incorrect; often harmless when infrequent.\n\n🔴 D) \"PVCs only during sleep\" — Incorrect; may be vagally mediated and low risk."
+  },
+  {
+    "id": "rhythm_q049",
+    "topic": "PVC Basics",
+    "type": "single",
+    "text": "A patient has frequent PVCs due to hypokalemia. What is the priority?",
+    "options": [
+      "Give atropine",
+      "Correct the potassium level",
+      "Perform synchronized cardioversion",
+      "Administer adenosine"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Correct the potassium\" — Correct because low potassium increases ventricular irritability and predisposes to PVCs, VT, and VF. Electrolyte correction treats the root cause.\n\n🔴 A) \"Atropine\" — Incorrect; used for bradycardia, not PVCs.\n\n🔴 C) \"Cardioversion\" — Incorrect; not indicated for isolated PVCs.\n\n🔴 D) \"Adenosine\" — Incorrect; PVCs are ventricular, adenosine affects AV node only."
+  },
+  {
+    "id": "rhythm_q050",
+    "topic": "PVC Basics",
+    "type": "single",
+    "text": "What is bigeminy?",
+    "options": [
+      "Every third beat is a PVC",
+      "A PVC occurs every other beat",
+      "Three consecutive PVCs",
+      "PVCs with compensatory pauses only"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"PVC every other beat\" — Correct because bigeminy describes a repeating pattern: normal beat → PVC → normal beat → PVC.\n\n🔴 A) \"Every third beat\" — Incorrect; this is trigeminy.\n\n🔴 C) \"Three consecutive PVCs\" — Incorrect; this is a short run of ventricular tachycardia.\n\n🔴 D) \"PVCs with compensatory pauses only\" — Incorrect; most PVCs have pauses, but this does NOT define bigeminy."
+  },
+  {
+    "id": "rhythm_q051",
+    "topic": "QT Drugs",
+    "type": "single",
+    "text": "Why is it dangerous when a patient takes multiple QT-prolonging medications?",
+    "options": [
+      "It only causes bradycardia",
+      "It has no significant clinical effect",
+      "It increases the risk of Torsades de pointes and ventricular dysrhythmias",
+      "It only affects blood pressure"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"It increases the risk of Torsades de pointes and ventricular dysrhythmias\" — Correct because combining multiple QT-prolonging medications amplifies the risk of significant QT interval prolongation. A prolonged QT predisposes the patient to Torsades de pointes (a form of polymorphic ventricular tachycardia) and other malignant ventricular dysrhythmias, which can rapidly deteriorate into ventricular fibrillation and sudden cardiac death.\n\n🔴 A) \"It only causes bradycardia\" — Incorrect because QT-prolonging drugs primarily affect repolarization (phase 3) rather than just slowing the heart rate. While some may also cause bradycardia, the major danger is ventricular arrhythmia, not simple rate reduction.\n\n🔴 B) \"It has no significant clinical effect\" — Incorrect; the combination effect is clinically very significant. Many drug labels carry explicit warnings about additive QT prolongation and the risk of lethal arrhythmias, especially when multiple agents are used together.\n\n🔴 D) \"It only affects blood pressure\" — Incorrect because QT-prolonging drugs do not primarily act on vascular tone or blood pressure. Even if some affect blood pressure, the specific danger being tested here is the increased risk of ventricular dysrhythmias, not hemodynamic blood pressure changes alone."
+  },
+  {
+    "id": "rhythm_q052",
+    "topic": "PEA Basics",
+    "type": "single",
+    "text": "Pulseless electrical activity (PEA) is best defined as:",
+    "options": [
+      "A rhythm with no electrical activity and no pulse",
+      "Organized electrical activity on the monitor but NO palpable pulse",
+      "Any tachycardia over 150 bpm",
+      "Regular sinus rhythm with a pulse"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Organized electrical activity on the monitor but NO palpable pulse\" — Correct because PEA describes a situation where the monitor shows an organized rhythm (often sinus, junctional, or idioventricular), yet the heart is not generating effective mechanical contractions, so no pulse is palpable. It is an electrical–mechanical dissociation and is treated as a form of cardiac arrest.\n\n🔴 A) \"A rhythm with no electrical activity and no pulse\" — Incorrect; that definition fits asystole, not PEA. In asystole, there is no electrical activity at all.\n\n🔴 C) \"Any tachycardia over 150 bpm\" — Incorrect; a fast heart rate alone does not equal PEA. Many patients with SVT, sinus tachycardia, or atrial flutter have a pulse despite high rates.\n\n🔴 D) \"Regular sinus rhythm with a pulse\" — Incorrect; that represents normal circulation and is essentially the opposite of PEA."
+  },
+  {
+    "id": "rhythm_q053",
+    "topic": "PEA/Asystole Management",
+    "type": "single",
+    "text": "Management of PEA and asystole includes which interventions?",
+    "options": [
+      "Defibrillation only",
+      "CPR and epinephrine, plus treatment of reversible causes",
+      "Adenosine and synchronized cardioversion",
+      "Amiodarone and defibrillation"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"CPR and epinephrine, plus treatment of reversible causes\" — Correct because ACLS guidelines for PEA and asystole call for high-quality CPR, early epinephrine, and aggressive search for and treatment of reversible causes (the H's and T's). Defibrillation is not indicated for these non-shockable rhythms.\n\n🔴 A) \"Defibrillation only\" — Incorrect because PEA and asystole are NON-shockable rhythms. Defibrillation in this context is ineffective and not recommended.\n\n🔴 C) \"Adenosine and synchronized cardioversion\" — Incorrect; adenosine is used for stable narrow-complex SVT, and synchronized cardioversion is used for unstable tachyarrhythmias, not for PEA or asystole.\n\n🔴 D) \"Amiodarone and defibrillation\" — Incorrect; this combination is used in refractory ventricular fibrillation or pulseless VT, which are shockable rhythms. PEA/asystole require CPR and epinephrine, not antiarrhythmics and shocks."
+  },
+  {
+    "id": "rhythm_q054",
+    "topic": "Asystole",
+    "type": "single",
+    "text": "On the monitor you see a straight line (true asystole) and no pulse. The correct response is:",
+    "options": [
+      "Defibrillate immediately",
+      "Start CPR and give epinephrine per ACLS; verify leads and rhythm",
+      "Give synchronized cardioversion",
+      "Observe the patient, no interventions needed"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Start CPR and give epinephrine per ACLS; verify leads and rhythm\" — Correct because asystole is a non-shockable cardiac arrest rhythm. The correct response is high-quality CPR, epinephrine administration, and confirming that what appears to be asystole is not due to loose leads or equipment failure.\n\n🔴 A) \"Defibrillate immediately\" — Incorrect; asystole is not a shockable rhythm. Defibrillation works by depolarizing chaotic electrical activity (e.g., VF), not by stimulating a flatline.\n\n🔴 C) \"Give synchronized cardioversion\" — Incorrect; synchronized cardioversion requires a QRS complex to synchronize with and is used for unstable tachyarrhythmias, not asystole.\n\n🔴 D) \"Observe, no interventions\" — Incorrect; asystole with no pulse is full cardiac arrest and requires immediate resuscitation efforts, not watchful waiting."
+  },
+  {
+    "id": "rhythm_q055",
+    "topic": "Hs and Ts",
+    "type": "single",
+    "text": "The \"H’s and T’s\" in cardiac arrest refer to:",
+    "options": [
+      "Causes of hypertension and tachycardia",
+      "Possible reversible causes of PEA/asystole and cardiac arrest",
+      "Anti-hypertensive medications",
+      "Types of heart blocks"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Possible reversible causes of PEA/asystole and cardiac arrest\" — Correct because the H’s and T’s are a memory aid in ACLS used to identify reversible causes of cardiac arrest (e.g., hypovolemia, hypoxia, acidosis, hyper/hypokalemia, hypothermia, tension pneumothorax, tamponade, toxins, thrombosis, etc.). Treating these can restore circulation.\n\n🔴 A) \"Causes of hypertension and tachycardia\" — Incorrect; the H’s and T’s are not focused on blood pressure or heart rate problems but on arrest etiologies.\n\n🔴 C) \"Anti-hypertensive medications\" — Incorrect; H’s and T’s are not a drug list but a list of pathologic conditions.\n\n🔴 D) \"Types of heart blocks\" — Incorrect; heart blocks are conduction abnormalities, not categorized under H’s and T’s for arrest management."
+  },
+  {
+    "id": "rhythm_q056",
+    "topic": "Hs and Ts",
+    "type": "single",
+    "text": "Which of the following is one of the \"H’s\" in the H’s and T’s?",
+    "options": [
+      "Hypovolemia",
+      "Thrombosis",
+      "Tension pneumothorax",
+      "Toxins"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Hypovolemia\" — Correct because hypovolemia (severe loss of circulating blood volume) is one of the classic H’s. It can cause PEA or pulseless arrest and is reversible with volume resuscitation and control of bleeding.\n\n🔴 B) \"Thrombosis\" — Incorrect here because thrombosis (pulmonary or coronary) is one of the T’s, not an H.\n\n🔴 C) \"Tension pneumothorax\" — Incorrect in this question because it is also one of the T’s, representing a mechanical cause of obstructive shock and arrest.\n\n🔴 D) \"Toxins\" — Incorrect; toxins (drug overdose, poisoning) are likewise one of the T’s rather than an H."
+  },
+  {
+    "id": "rhythm_q057",
+    "topic": "Hs and Ts",
+    "type": "single",
+    "text": "Which of the following is one of the \"T’s\" in the H’s and T’s?",
+    "options": [
+      "Hypoxia",
+      "Hypothermia",
+      "Thrombosis (cardiac or pulmonary)",
+      "Hyperkalemia"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Thrombosis (cardiac or pulmonary)\" — Correct because coronary thrombosis (acute MI) and pulmonary thrombosis (massive PE) are two of the classic T’s that can cause sudden arrest. Treating them may require thrombolytics, PCI, or embolectomy.\n\n🔴 A) \"Hypoxia\" — Incorrect here because hypoxia is one of the H’s, representing lack of oxygen delivery.\n\n🔴 B) \"Hypothermia\" — Incorrect; hypothermia is also one of the H’s (and can alter ECG appearance and cause arrest).\n\n🔴 D) \"Hyperkalemia\" — Incorrect in this question because hyperkalemia is one of the H’s (electrolyte disturbances), not a T."
+  },
+  {
+    "id": "rhythm_q058",
+    "topic": "STEMI vs NSTEMI",
+    "type": "single",
+    "text": "Which ECG change is classic for a STEMI?",
+    "options": [
+      "ST depression only",
+      "ST elevation in specific leads",
+      "Only T-wave flattening",
+      "Shortened QT interval"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"ST elevation in specific leads\" — Correct because a ST-segment elevation myocardial infarction (STEMI) is defined by new ST elevation at the J point in two or more anatomically contiguous leads. The pattern of elevation localizes the infarct territory (e.g., inferior, anterior, lateral).\n\n🔴 A) \"ST depression only\" — Incorrect; ST depression is more typical of ischemia without full-thickness infarction (subendocardial ischemia) or reciprocal changes, not classic STEMI diagnostic criteria.\n\n🔴 C) \"Only T-wave flattening\" — Incorrect; T-wave flattening is a nonspecific change that may represent mild ischemia or other conditions but is not diagnostic for STEMI.\n\n🔴 D) \"Shortened QT interval\" — Incorrect; STEMI is not defined by a shortened QT. In fact, ischemia and medications may prolong the QT; QT length is not the key STEMI criterion."
+  },
+  {
+    "id": "rhythm_q059",
+    "topic": "STEMI/NSTEMI",
+    "type": "single",
+    "text": "Why is a 12-lead ECG important in myocardial infarction?",
+    "options": [
+      "To estimate the patient’s oxygen saturation",
+      "To diagnose the precise location and type of MI (STEMI vs NSTEMI)",
+      "To measure ejection fraction directly",
+      "To determine if the patient has pneumonia"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"To diagnose the precise location and type of MI (STEMI vs NSTEMI)\" — Correct because a 12-lead ECG can show which region of the heart is affected (e.g., inferior, anterior, lateral) and whether there is ST-segment elevation (STEMI) or non-ST elevation (NSTEMI). This directly guides urgent treatment decisions like reperfusion therapy.\n\n🔴 A) \"Estimate oxygen saturation\" — Incorrect; oxygen saturation is measured by pulse oximetry or blood gas analysis, not by ECG.\n\n🔴 C) \"Measure ejection fraction\" — Incorrect; ejection fraction is measured by echocardiography, nuclear imaging, or MRI, not ECG.\n\n🔴 D) \"Determine pneumonia\" — Incorrect; pneumonia is a pulmonary infection diagnosed by clinical exam, labs, and chest imaging, not via ECG."
+  },
+  {
+    "id": "rhythm_q060",
+    "topic": "MI Definition",
+    "type": "single",
+    "text": "Which best describes a myocardial infarction (MI)?",
+    "options": [
+      "Temporary spasm of a coronary artery with no cell death",
+      "Complete or partial blockage of coronary blood flow leading to ischemia and necrosis of heart muscle",
+      "Chronic elevation of blood pressure",
+      "Any episode of chest pain, regardless of cause"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Complete or partial blockage of coronary blood flow leading to ischemia and necrosis of heart muscle\" — Correct because an MI occurs when a coronary artery is obstructed (usually by a thrombus over a ruptured plaque), causing prolonged ischemia that results in irreversible myocardial cell death (necrosis).\n\n🔴 A) \"Temporary spasm with no cell death\" — Incorrect; this describes Prinzmetal (variant) angina or transient coronary vasospasm, which typically does not cause permanent necrosis if quickly relieved.\n\n🔴 C) \"Chronic elevation of blood pressure\" — Incorrect; that describes hypertension, which is a risk factor for MI, not the infarction itself.\n\n🔴 D) \"Any episode of chest pain\" — Incorrect; chest pain can have many non-cardiac causes (e.g., GI, musculoskeletal, pulmonary). MI specifically requires myocardial ischemia with evidence of necrosis (e.g., troponin elevation, ECG changes)."
+  },
+  {
+    "id": "rhythm_q061",
+    "topic": "MI Location",
+    "type": "single",
+    "text": "ST elevation in leads II, III, and aVF indicates injury to which area of the heart?",
+    "options": [
+      "Anterior wall",
+      "Inferior wall",
+      "Lateral wall",
+      "Septal wall"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Inferior wall\" — Correct because leads II, III, and aVF view the inferior surface of the left ventricle, which is typically supplied by the right coronary artery (RCA). ST elevation in these leads strongly suggests an inferior STEMI.\n\n🔴 A) \"Anterior wall\" — Incorrect; anterior MIs show ST elevation in V3–V4 (LAD territory).\n\n🔴 C) \"Lateral wall\" — Incorrect; lateral wall ST elevation appears in leads I, aVL, V5, and V6 (circumflex artery territory).\n\n🔴 D) \"Septal wall\" — Incorrect; septal involvement produces changes in V1–V2, not the inferior leads."
+  },
+  {
+    "id": "rhythm_q062",
+    "topic": "MI Location",
+    "type": "single",
+    "text": "Which leads correspond to an anterior myocardial infarction?",
+    "options": [
+      "V3 and V4",
+      "II and III",
+      "aVR and aVL",
+      "V1 and V2"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"V3 and V4\" — Correct because V3–V4 directly overlie the anterior wall of the left ventricle, typically supplied by the mid-left anterior descending (LAD) artery. ST elevation here is classic for an anterior STEMI.\n\n🔴 B) \"II and III\" — Incorrect; these represent the inferior wall.\n\n🔴 C) \"aVR and aVL\" — Incorrect; aVL views high lateral wall; aVR does not diagnose anterior MI.\n\n🔴 D) \"V1 and V2\" — Incorrect; these leads reflect the septal region."
+  },
+  {
+    "id": "rhythm_q063",
+    "topic": "MI Location",
+    "type": "single",
+    "text": "ST elevations in V1 and V2 indicate involvement of which myocardial region?",
+    "options": [
+      "Lateral",
+      "Septal",
+      "Inferior",
+      "Posterior"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Septal\" — Correct because V1 and V2 sit over the interventricular septum. ST elevation here suggests a septal MI, typically from proximal LAD occlusion.\n\n🔴 A) \"Lateral\" — Incorrect; lateral changes are found in I, aVL, V5, V6.\n\n🔴 C) \"Inferior\" — Incorrect; inferior leads are II, III, aVF.\n\n🔴 D) \"Posterior\" — Incorrect; posterior MI causes ST depression in V1–V3, not elevation."
+  },
+  {
+    "id": "rhythm_q064",
+    "topic": "MI Location",
+    "type": "single",
+    "text": "Which artery is most commonly associated with an anterior wall MI?",
+    "options": [
+      "Right coronary artery (RCA)",
+      "Left anterior descending (LAD)",
+      "Circumflex artery",
+      "Left main distal branch"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Left anterior descending (LAD)\" — Correct because the LAD supplies the anterior wall, septum, and apex. LAD occlusion is often catastrophic ('widowmaker') due to its large myocardial territory.\n\n🔴 A) \"RCA\" — Incorrect; RCA supplies the inferior wall.\n\n🔴 C) \"Circumflex\" — Incorrect; supplies lateral wall; not anterior.\n\n🔴 D) \"Left main distal branch\" — Incorrect; a left main occlusion is massive but not specifically anterior — it affects multiple territories simultaneously."
+  },
+  {
+    "id": "rhythm_q065",
+    "topic": "Ventricular Tachycardia",
+    "type": "single",
+    "text": "Which ECG feature is most consistent with ventricular tachycardia (VT)?",
+    "options": [
+      "Narrow QRS complexes",
+      "Wide QRS complexes with AV dissociation",
+      "Irregular rhythm with no P-waves",
+      "Sawtooth flutter waves"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Wide QRS complexes with AV dissociation\" — Correct because VT originates in ventricular myocardium, creating a wide, bizarre QRS. AV dissociation (P-waves marching through independently) strongly supports VT over SVT with aberrancy.\n\n🔴 A) \"Narrow QRS\" — Incorrect; narrow QRS indicates supraventricular origin.\n\n🔴 B) \"Irregular rhythm with no P-waves\" — Incorrect; this is more characteristic of atrial fibrillation.\n\n🔴 D) \"Sawtooth waves\" — Incorrect; describes atrial flutter, not VT."
+  },
+  {
+    "id": "rhythm_q066",
+    "topic": "Ventricular Tachycardia",
+    "type": "single",
+    "text": "A run of three or more consecutive PVCs is defined as:",
+    "options": [
+      "Trigeminy",
+      "Nonsustained ventricular tachycardia",
+      "Atrial tachycardia",
+      "Ventricular bigeminy"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Nonsustained ventricular tachycardia\" — Correct because three or more PVCs in a row at a rapid rate meet the definition of NSVT (lasting <30 seconds). It indicates significant ventricular irritability.\n\n🔴 A) \"Trigeminy\" — Incorrect; trigeminy is every third beat a PVC.\n\n🔴 C) \"Atrial tachycardia\" — Incorrect; originates above the ventricles with narrow QRS.\n\n🔴 D) \"Ventricular bigeminy\" — Incorrect; PVC every other beat."
+  },
+  {
+    "id": "rhythm_q067",
+    "topic": "Ventricular Tachycardia",
+    "type": "single",
+    "text": "Which patient with VT requires IMMEDIATE defibrillation?",
+    "options": [
+      "Stable VT with a pulse",
+      "Pulseless VT",
+      "Slow VT at 90 bpm",
+      "PVCs occurring in bigeminy"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Pulseless VT\" — Correct because pulseless VT is treated identically to ventricular fibrillation: immediate defibrillation and CPR. It is a shockable, life-threatening rhythm.\n\n🔴 A) \"Stable VT with a pulse\" — Incorrect; requires synchronized cardioversion or antiarrhythmics, not defibrillation.\n\n🔴 C) \"Slow VT at 90 bpm\" — Incorrect; may require treatment but not immediate defibrillation.\n\n🔴 D) \"PVC bigeminy\" — Incorrect; not an indication for defibrillation."
+  },
+  {
+    "id": "rhythm_q068",
+    "topic": "Ventricular Tachycardia",
+    "type": "single",
+    "text": "What is the FIRST step in evaluating a wide-complex tachycardia?",
+    "options": [
+      "Determine if the patient has a pulse",
+      "Give adenosine immediately",
+      "Call for amiodarone drip",
+      "Apply atropine"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Determine if the patient has a pulse\" — Correct because management differs drastically based on pulse presence. Pulseless → defibrillation; pulse → synchronized cardioversion or medications. Always assess the patient first.\n\n🔴 B) \"Give adenosine\" — Incorrect; adenosine may be considered in stable, regular, monomorphic WCT but ONLY after ruling out instability.\n\n🔴 C) \"Start amiodarone\" — Incorrect as the FIRST step; primary step is pulse check.\n\n🔴 D) \"Atropine\" — Incorrect; atropine treats bradycardia, not tachycardia."
+  },
+  {
+    "id": "rhythm_q069",
+    "topic": "Ventricular Tachycardia",
+    "type": "single",
+    "text": "In stable VT with a pulse, what is an appropriate FIRST treatment?",
+    "options": [
+      "Synchronized cardioversion",
+      "Adenosine 6 mg",
+      "Amiodarone 150 mg IV over 10 minutes",
+      "Immediate defibrillation"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Amiodarone 150 mg IV over 10 minutes\" — Correct because in STABLE VT with a pulse, antiarrhythmic medications such as amiodarone, procainamide, or sotalol are first-line options per ACLS.\n\n🔴 A) \"Synchronized cardioversion\" — Incorrect as FIRST step in stable VT, though it is indicated if medications fail or the patient deteriorates.\n\n🔴 B) \"Adenosine 6 mg\" — Incorrect; adenosine has limited role and is NOT first-line for VT.\n\n🔴 D) \"Immediate defibrillation\" — Incorrect; defibrillation is for PULSELESS VT, not stable VT."
+  },
+  {
+    "id": "rhythm_q070",
+    "topic": "Torsades de Pointes",
+    "type": "single",
+    "text": "What is the treatment of choice for Torsades de pointes?",
+    "options": [
+      "Adenosine",
+      "Magnesium sulfate",
+      "High-dose epinephrine",
+      "Synchronized cardioversion only"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Magnesium sulfate\" — Correct because magnesium stabilizes myocardial ion channels and is first-line therapy for torsades, even if the magnesium level is normal. It shortens the QT interval and suppresses early after-depolarizations.\n\n🔴 A) \"Adenosine\" — Incorrect; adenosine acts on the AV node and does NOT treat torsades.\n\n🔴 C) \"High-dose epinephrine\" — Incorrect; epinephrine increases myocardial oxygen demand and can worsen polymorphic VT.\n\n🔴 D) \"Synchronized cardioversion only\" — Incorrect; cardioversion may be needed if unstable, but without magnesium the rhythm will likely recur. Magnesium is ESSENTIAL."
+  },
+  {
+    "id": "rhythm_q071",
+    "topic": "Beta Blockers",
+    "type": "single",
+    "text": "Metoprolol, a prototype beta blocker, has which primary effect on the heart?",
+    "options": [
+      "Increases heart rate and contractility",
+      "Decreases heart rate and reduces myocardial oxygen demand",
+      "Causes strong vasoconstriction of coronary arteries",
+      "Increases conduction through the AV node"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Decreases heart rate and reduces myocardial oxygen demand\" — Correct because metoprolol is a selective beta-1 blocker that slows SA node firing and decreases contractility. This lowers myocardial oxygen demand, which is beneficial in conditions like angina, hypertension, and certain tachydysrhythmias.\n\n🔴 A) \"Increases heart rate and contractility\" — Incorrect; this is the effect of beta-agonists (like epinephrine), not beta-blockers. Metoprolol does the opposite.\n\n🔴 C) \"Causes strong vasoconstriction of coronary arteries\" — Incorrect; metoprolol primarily acts on cardiac beta-1 receptors and does not cause significant coronary vasoconstriction. Coronary vasoconstriction would worsen ischemia.\n\n🔴 D) \"Increases conduction through the AV node\" — Incorrect; beta-blockers SLOW AV node conduction, which is why they help control ventricular rate in atrial fibrillation and other supraventricular tachycardias."
+  },
+  {
+    "id": "rhythm_q072",
+    "topic": "Beta Blockers",
+    "type": "single",
+    "text": "Which nursing assessment is especially important before giving metoprolol?",
+    "options": [
+      "Blood pressure and heart rate",
+      "Blood glucose only",
+      "Respiratory rate only",
+      "Skin turgor"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Blood pressure and heart rate\" — Correct because metoprolol lowers both heart rate and blood pressure. The nurse must ensure the patient is not too bradycardic or hypotensive before administration. Many orders include hold parameters, such as HR < 60 bpm or SBP < 90 mmHg.\n\n🔴 B) \"Blood glucose only\" — Incorrect; while beta-blockers can mask hypoglycemia symptoms in diabetics, the primary immediate safety check is HR and BP, not glucose alone.\n\n🔴 C) \"Respiratory rate only\" — Incorrect; metoprolol is beta-1 selective and has minimal direct effect on respiratory rate compared to nonselective agents like propranolol.\n\n🔴 D) \"Skin turgor\" — Incorrect; this assesses hydration status, which is not the main safety issue for a beta-blocker dose."
+  },
+  {
+    "id": "rhythm_q073",
+    "topic": "Amiodarone",
+    "type": "single",
+    "text": "Why is amiodarone commonly used in dysrhythmia management?",
+    "options": [
+      "It only works on atrial dysrhythmias",
+      "It only works on ventricular dysrhythmias",
+      "It works on BOTH atrial and ventricular dysrhythmias",
+      "It only treats sinus bradycardia"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"It works on BOTH atrial and ventricular dysrhythmias\" — Correct because amiodarone is a class III antiarrhythmic with multiple channel-blocking effects. It is effective for atrial fibrillation, atrial flutter, supraventricular tachycardias, and life-threatening ventricular dysrhythmias such as VT and VF.\n\n🔴 A) \"Only atrial dysrhythmias\" — Incorrect; amiodarone is often used specifically for ventricular arrhythmias in ACLS (e.g., VT/VF) as well as atrial rhythms.\n\n🔴 B) \"Only ventricular dysrhythmias\" — Incorrect; it also treats atrial arrhythmias, so limiting it to one chamber is inaccurate.\n\n🔴 D) \"Only sinus bradycardia\" — Incorrect; amiodarone does NOT treat sinus bradycardia. In fact, it can cause or worsen bradycardia due to its nodal suppression."
+  },
+  {
+    "id": "rhythm_q074",
+    "topic": "Amiodarone",
+    "type": "single",
+    "text": "Which is an important consideration with amiodarone therapy?",
+    "options": [
+      "No monitoring is required",
+      "It has multiple potential side effects and requires close monitoring",
+      "It is used only once and never repeated",
+      "It is only given orally"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"It has multiple potential side effects and requires close monitoring\" — Correct because amiodarone has a long half-life and numerous serious toxicities (pulmonary fibrosis, liver injury, thyroid dysfunction, corneal deposits, skin changes, bradycardia). Patients on long-term therapy require frequent monitoring of lung function, liver enzymes, thyroid labs, and ECG.\n\n🔴 A) \"No monitoring is required\" — Incorrect; this would be dangerous practice. Amiodarone is one of the most monitoring-intensive antiarrhythmics.\n\n🔴 C) \"Used only once\" — Incorrect; in practice, amiodarone may be given as IV bolus, infusion, and transitioned to chronic oral therapy.\n\n🔴 D) \"Only given orally\" — Incorrect; amiodarone is available both IV (especially in acute settings like VT/VF) and PO for chronic maintenance."
+  },
+  {
+    "id": "rhythm_q075",
+    "topic": "Calcium Channel Blockers",
+    "type": "single",
+    "text": "Which drugs are calcium channel blockers used in dysrhythmia management?",
+    "options": [
+      "Verapamil, Nicardipine, Diltiazem",
+      "Digoxin, Metoprolol, Amiodarone",
+      "Lisinopril, Losartan, Valsartan",
+      "Heparin, Warfarin, Clopidogrel"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Verapamil, Nicardipine, Diltiazem\" — Correct because these are calcium channel blockers. Verapamil and diltiazem are non-dihydropyridine agents used for rate control in atrial fibrillation and other supraventricular tachycardias by slowing AV nodal conduction.\n\n🔴 B) \"Digoxin, Metoprolol, Amiodarone\" — Incorrect; these are a cardiac glycoside, beta-blocker, and class III antiarrhythmic respectively, not calcium channel blockers.\n\n🔴 C) \"Lisinopril, Losartan, Valsartan\" — Incorrect; these are ACE inhibitors and ARBs, used for blood pressure and heart failure, not primarily for dysrhythmia control.\n\n🔴 D) \"Heparin, Warfarin, Clopidogrel\" — Incorrect; these are anticoagulants/antiplatelets, used for clot prevention, not rhythm control."
+  },
+  {
+    "id": "rhythm_q076",
+    "topic": "CCB Mechanism",
+    "type": "single",
+    "text": "Calcium channel blockers like diltiazem primarily work by:",
+    "options": [
+      "Increasing conduction through the AV node",
+      "Blocking calcium influx, slowing conduction and decreasing heart rate",
+      "Increasing myocardial oxygen demand",
+      "Causing severe vasoconstriction"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Blocking calcium influx, slowing conduction and decreasing heart rate\" — Correct because non-dihydropyridine calcium channel blockers (like diltiazem and verapamil) block L-type calcium channels, especially in the AV node. This slows conduction, decreases heart rate, and lowers myocardial oxygen demand.\n\n🔴 A) \"Increasing AV conduction\" — Incorrect; they do the opposite — they SLOW AV conduction.\n\n🔴 C) \"Increasing myocardial oxygen demand\" — Incorrect; they generally reduce demand, which is why they can help in angina and tachycardia.\n\n🔴 D) \"Causing severe vasoconstriction\" — Incorrect; calcium channel blockers tend to cause vasodilation, not vasoconstriction, particularly the dihydropyridine class."
+  },
+  {
+    "id": "rhythm_q077",
+    "topic": "CCB Side Effects",
+    "type": "single",
+    "text": "Which side effect should the nurse monitor for in a patient on calcium channel blockers?",
+    "options": [
+      "Bradycardia and hypotension",
+      "Hyperthermia",
+      "Severe hypoglycemia",
+      "Leukocytosis"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Bradycardia and hypotension\" — Correct because calcium channel blockers slow AV nodal conduction and cause vasodilation. This can lead to low heart rate and low blood pressure, which must be monitored closely.\n\n🔴 B) \"Hyperthermia\" — Incorrect; not a typical adverse effect of CCBs.\n\n🔴 C) \"Severe hypoglycemia\" — Incorrect; this is associated more with insulin or some oral diabetic meds, not CCBs.\n\n🔴 D) \"Leukocytosis\" — Incorrect; white blood cell elevation is unrelated to CCB therapy."
+  },
+  {
+    "id": "rhythm_q078",
+    "topic": "Antidysrhythmic Nursing Implications",
+    "type": "single",
+    "text": "Which nursing implication is important for patients on antidysrhythmic medications?",
+    "options": [
+      "They require no ECG monitoring once therapy is started",
+      "Monitor for worsening dysrhythmias, hypotension, and signs of decreased perfusion",
+      "Always double the dose if the rhythm persists",
+      "Stop monitoring blood pressure once stable"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Monitor for worsening dysrhythmias, hypotension, and signs of decreased perfusion\" — Correct because antidysrhythmics can themselves provoke new arrhythmias (proarrhythmia), lower blood pressure, or depress cardiac function. Ongoing ECG, blood pressure, and perfusion assessment is essential.\n\n🔴 A) \"No ECG monitoring\" — Incorrect; that would be unsafe and contrary to standard of care.\n\n🔴 C) \"Always double the dose\" — Incorrect; increasing doses without guidance can be extremely dangerous and increase the risk of toxicity and lethal arrhythmias.\n\n🔴 D) \"Stop BP monitoring\" — Incorrect; blood pressure should be followed regularly because many antidysrhythmics lower BP and can cause shock."
+  },
+  {
+    "id": "rhythm_q079",
+    "topic": "Digoxin",
+    "type": "single",
+    "text": "Digoxin is used for certain atrial dysrhythmias. Which is a key nursing consideration?",
+    "options": [
+      "Monitor for signs of digoxin toxicity, including nausea, vision changes, and arrhythmias",
+      "No lab monitoring is needed",
+      "It never affects heart rate",
+      "It is safe at any heart rate"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Monitor for signs of digoxin toxicity\" — Correct because digoxin has a narrow therapeutic window. Toxicity can cause GI symptoms (nausea, vomiting), visual disturbances (yellow/green halos, blurred vision), and dangerous arrhythmias (such as AV block or ventricular ectopy). Serum digoxin levels, potassium, and renal function often need monitoring.\n\n🔴 B) \"No lab monitoring\" — Incorrect; this is unsafe, especially in elderly or renally impaired patients.\n\n🔴 C) \"It never affects heart rate\" — Incorrect; digoxin slows AV nodal conduction and can decrease ventricular rate. That is one of its therapeutic effects.\n\n🔴 D) \"Safe at any heart rate\" — Incorrect; giving digoxin to a very bradycardic patient can worsen bradycardia and cause hemodynamic instability."
+  },
+  {
+    "id": "rhythm_q080",
+    "topic": "Digoxin",
+    "type": "single",
+    "text": "Before giving digoxin, the nurse should:",
+    "options": [
+      "Always give the dose regardless of heart rate",
+      "Check apical heart rate and follow parameters for holding the medication",
+      "Check only respiratory rate",
+      "Administer without assessment to avoid delay"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Check apical heart rate and follow parameters for holding the medication\" — Correct because standard nursing practice is to check the apical pulse for a full minute before administering digoxin. Many orders instruct the nurse to hold digoxin if HR is below a specific threshold (commonly <60 bpm in adults) due to risk of bradycardia and heart block.\n\n🔴 A) \"Always give regardless of HR\" — Incorrect; this ignores safety parameters and can cause severe bradycardia or block.\n\n🔴 C) \"Check only respiratory rate\" — Incorrect; respiratory rate does not guide digoxin dosing or safety.\n\n🔴 D) \"Administer without assessment\" — Incorrect; digoxin administration without proper assessment of HR and sometimes rhythm is unsafe and not within accepted standards of care."
+  },
+  {
+    "id": "rhythm_q081",
+    "topic": "Electrolytes & Dysrhythmias",
+    "type": "single",
+    "text": "Hyperkalemia on ECG most commonly presents with which finding?",
+    "options": [
+      "Peaked T waves",
+      "Shortened PR interval",
+      "Prominent U waves",
+      "Fixed-rate atrial flutter waves"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Peaked T waves\" — Correct because elevated serum potassium accelerates repolarization in ventricular myocytes. This produces narrow, tall, sharply peaked T waves—often the earliest identifiable ECG change in hyperkalemia.\n\n🔴 B) \"Shortened PR interval\" — Incorrect; hyperkalemia typically prolongs PR interval by slowing atrial and AV nodal conduction, not shortening it.\n\n🔴 C) \"Prominent U waves\" — Incorrect; this is classic for **hypo**kalemia, not hyperkalemia. Hypokalemia causes delayed repolarization which manifests as U waves.\n\n🔴 D) \"Fixed-rate atrial flutter waves\" — Incorrect; atrial flutter has sawtooth flutter waves unrelated to potassium levels."
+  },
+  {
+    "id": "rhythm_q082",
+    "topic": "Hypokalemia",
+    "type": "single",
+    "text": "Which dysrhythmia is a patient with severe hypokalemia MOST at risk for?",
+    "options": [
+      "Ventricular tachycardia",
+      "Sinus tachycardia",
+      "Atrial flutter",
+      "Mobitz I block"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Ventricular tachycardia\" — Correct because hypokalemia increases myocardial excitability and prolongs repolarization, predisposing the patient to PVCs, ventricular tachycardia, and potentially ventricular fibrillation.\n\n🔴 B) \"Sinus tachycardia\" — Incorrect; while possible due to compensatory mechanisms, it is not the MOST dangerous or characteristic dysrhythmia caused by hypokalemia.\n\n🔴 C) \"Atrial flutter\" — Incorrect; hypokalemia affects ventricular tissue more profoundly than atrial automaticity.\n\n🔴 D) \"Mobitz I block\" — Incorrect; AV nodal Wenckebach block is not a classic electrolyte-driven conduction issue like VT in hypokalemia."
+  },
+  {
+    "id": "rhythm_q083",
+    "topic": "Electrolytes",
+    "type": "single",
+    "text": "Hypomagnesemia increases risk for which dysrhythmia?",
+    "options": [
+      "Torsades de pointes",
+      "Junctional bradycardia",
+      "Mobitz II block",
+      "Hyperacute anterior STEMI changes"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Torsades de pointes\" — Correct because hypomagnesemia prolongs repolarization and worsens early after-depolarizations, which directly trigger torsades de pointes. Magnesium stabilizes cardiac ion channels and suppresses oscillatory depolarization.\n\n🔴 B) \"Junctional bradycardia\" — Incorrect; magnesium deficiency does not primarily cause junctional rhythms.\n\n🔴 C) \"Mobitz II block\" — Incorrect; Mobitz II is usually due to structural His–Purkinje damage, not electrolyte imbalance.\n\n🔴 D) \"Hyperacute STEMI changes\" — Incorrect; hyperacute T waves arise from early ischemia, not low magnesium."
+  },
+  {
+    "id": "rhythm_q084",
+    "topic": "Pacemakers",
+    "type": "single",
+    "text": "Which ECG finding indicates a properly functioning ventricular pacemaker?",
+    "options": [
+      "Narrow QRS with no pacing spike",
+      "Pacing spike followed by a wide QRS complex",
+      "Sawtooth aura waves",
+      "Pacing spike after the QRS complex"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Pacing spike followed by a wide QRS complex\" — Correct because ventricular pacing stimulates the ventricles directly, producing a wide, left-bundle-branch-block–like QRS after the pacing spike.\n\n🔴 A) \"Narrow QRS with no spike\" — Incorrect; that suggests normal conduction, not ventricular pacing.\n\n🔴 C) \"Sawtooth waves\" — Incorrect; indicates atrial flutter, unrelated to pacemaker function.\n\n🔴 D) \"Pacing spike AFTER QRS\" — Incorrect; a pacemaker stimulus must occur BEFORE depolarization, not after."
+  },
+  {
+    "id": "rhythm_q085",
+    "topic": "Pacemakers",
+    "type": "single",
+    "text": "Failure to capture on a pacemaker strip means:",
+    "options": [
+      "Pacing spikes are present but no QRS follows",
+      "The pacemaker has turned itself off",
+      "Pacing spikes occur only during PVCs",
+      "The pacemaker is firing too many impulses"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Pacing spikes are present but no QRS follows\" — Correct because capture failure means the heart is not responding to pacemaker stimuli. Possible causes include lead displacement, low battery, electrolyte imbalance, or myocardial fibrosis.\n\n🔴 B) \"Pacemaker turned off\" — Incorrect; if it were off, there would be no pacing spikes.\n\n🔴 C) \"Spikes only during PVCs\" — Incorrect; PVC timing has nothing to do with capture failure.\n\n🔴 D) \"Pacemaker firing too many impulses\" — Incorrect; oversensing/undersensing issues are separate problems; failure to capture specifically means **no mechanical response** after a spike."
+  },
+  {
+    "id": "rhythm_q086",
+    "topic": "Pacemakers",
+    "type": "single",
+    "text": "Which scenario represents pacemaker 'failure to sense'?",
+    "options": [
+      "Pacemaker fires during intrinsic QRS complexes",
+      "No spikes appear at all",
+      "Spikes appear but produce no contraction",
+      "Pacemaker spikes only occur during exercise"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Pacemaker fires during intrinsic QRS complexes\" — Correct because failure to sense occurs when the pacemaker does not detect the patient’s intrinsic rhythm and fires inappropriately. This can be dangerous, especially if it fires on the T-wave (R-on-T phenomenon).\n\n🔴 B) \"No spikes appear\" — Incorrect; that indicates pacemaker failure to fire, not failure to sense.\n\n🔴 C) \"Spikes but no contraction\" — Incorrect; that is failure to capture.\n\n🔴 D) \"Spikes only during exercise\" — Incorrect; this may represent rate-responsive pacing, not a sensing error."
+  },
+  {
+    "id": "rhythm_q087",
+    "topic": "Heart Failure",
+    "type": "single",
+    "text": "Which finding is most consistent with left-sided heart failure?",
+    "options": [
+      "Peripheral edema",
+      "Pulmonary crackles and dyspnea",
+      "Jugular venous distention",
+      "Abdominal ascites"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Pulmonary crackles and dyspnea\" — Correct because left-sided failure causes blood to back up into the pulmonary circulation, producing pulmonary edema, crackles, orthopnea, and shortness of breath.\n\n🔴 A) \"Peripheral edema\" — Incorrect for left failure; this is characteristic of **right-sided** failure.\n\n🔴 C) \"JVD\" — Incorrect; jugular venous distention indicates systemic venous congestion from right heart failure.\n\n🔴 D) \"Ascites\" — Incorrect; fluid accumulation in the abdomen occurs in right-sided failure or severe biventricular failure."
+  },
+  {
+    "id": "rhythm_q088",
+    "topic": "Heart Failure",
+    "type": "single",
+    "text": "Which medication decreases preload and helps relieve pulmonary congestion in heart failure?",
+    "options": [
+      "Diuretics such as furosemide",
+      "Digoxin",
+      "Atropine",
+      "Amiodarone"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Diuretics such as furosemide\" — Correct because loop diuretics reduce intravascular volume, decreasing preload and relieving pulmonary edema. This improves symptoms like dyspnea and crackles.\n\n🔴 B) \"Digoxin\" — Incorrect; digoxin helps contractility and rate control but does not reduce fluid overload.\n\n🔴 C) \"Atropine\" — Incorrect; atropine increases HR and does not treat congestion.\n\n🔴 D) \"Amiodarone\" — Incorrect; used for dysrhythmias, not fluid management."
+  },
+  {
+    "id": "rhythm_q089",
+    "topic": "Heart Failure",
+    "type": "single",
+    "text": "An S3 heart sound is most commonly associated with:",
+    "options": [
+      "Fluid overload and heart failure",
+      "Aortic stenosis",
+      "Pulmonary embolism",
+      "Pericarditis"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Fluid overload and heart failure\" — Correct because S3 occurs from rapid filling of a volume-overloaded ventricle. It is a classic sign of systolic heart failure and often heard in acute pulmonary congestion.\n\n🔴 B) \"Aortic stenosis\" — Incorrect; this produces a harsh systolic murmur, not S3.\n\n🔴 C) \"Pulmonary embolism\" — Incorrect; PE causes acute dyspnea and tachycardia, not S3 from volume overload.\n\n🔴 D) \"Pericarditis\" — Incorrect; pericarditis produces a friction rub, not an S3 gallop."
+  },
+  {
+    "id": "rhythm_q090",
+    "topic": "Hypertension",
+    "type": "single",
+    "text": "Which medication class is considered first-line treatment for hypertension?",
+    "options": [
+      "ACE inhibitors or ARBs",
+      "Amiodarone",
+      "Adenosine",
+      "Atropine"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"ACE inhibitors or ARBs\" — Correct because these medications reduce vascular resistance, protect kidney function, and are first-line agents for chronic hypertension.\n\n🔴 B) \"Amiodarone\" — Incorrect; used for tachydysrhythmias, not hypertension.\n\n🔴 C) \"Adenosine\" — Incorrect; used for stable SVT, not blood pressure control.\n\n🔴 D) \"Atropine\" — Incorrect; increases heart rate and has no role in hypertension management."
+  },
+  {
+    "id": "rhythm_q091",
+    "topic": "Hypertension",
+    "type": "single",
+    "text": "Which lifestyle change is most effective in reducing blood pressure?",
+    "options": [
+      "Reducing sodium intake",
+      "Increasing sugar intake",
+      "Drinking more energy drinks",
+      "Avoiding all exercise"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Reducing sodium intake\" — Correct because high sodium promotes fluid retention and increases vascular resistance. Lowering sodium directly reduces blood volume and systemic pressures, which is why the DASH diet emphasizes sodium restriction.\n\n🔴 B) \"Increasing sugar intake\" — Incorrect; excess sugar contributes to weight gain and metabolic syndrome, worsening hypertension.\n\n🔴 C) \"More energy drinks\" — Incorrect; energy drinks contain caffeine and stimulants that raise blood pressure and heart rate.\n\n🔴 D) \"Avoiding all exercise\" — Incorrect; physical inactivity is a major contributor to chronic hypertension."
+  },
+  {
+    "id": "rhythm_q092",
+    "topic": "HTN Urgency/Emergency",
+    "type": "single",
+    "text": "Hypertensive emergency is defined as severe hypertension with:",
+    "options": [
+      "No symptoms at all",
+      "Evidence of acute target organ damage",
+      "Bradycardia only",
+      "A pulse above 150 bpm"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Evidence of acute target organ damage\" — Correct because hypertensive emergency requires BOTH severe elevation of BP and signs of organ injury (e.g., stroke, acute kidney injury, pulmonary edema, aortic dissection, retinal hemorrhage).\n\n🔴 A) \"No symptoms\" — Incorrect; that describes hypertensive **urgency**, not emergency.\n\n🔴 C) \"Bradycardia only\" — Incorrect; heart rate is not how hypertensive emergency is defined.\n\n🔴 D) \"Pulse above 150\" — Incorrect; tachycardia may occur, but it does not define emergency."
+  },
+  {
+    "id": "rhythm_q093",
+    "topic": "Atherosclerosis",
+    "type": "single",
+    "text": "What is the underlying cause of atherosclerosis?",
+    "options": [
+      "Accumulation of lipids and inflammatory processes within arterial walls",
+      "Excess oxygenation of blood",
+      "Low blood pressure",
+      "High levels of insulin only"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Accumulation of lipids and inflammatory processes within arterial walls\" — Correct because atherosclerosis results from LDL infiltration, endothelial injury, and chronic inflammation leading to plaque formation and narrowing of vessels.\n\n🔴 B) \"Excess oxygenation\" — Incorrect; oxygen has no role in plaque formation.\n\n🔴 C) \"Low blood pressure\" — Incorrect; hypotension is NOT a risk factor and does not cause plaque deposition.\n\n🔴 D) \"High insulin only\" — Incorrect; while insulin resistance is a risk factor, atherosclerosis is multifactorial and primarily driven by lipid deposition and inflammation."
+  },
+  {
+    "id": "rhythm_q094",
+    "topic": "Coronary Artery Disease",
+    "type": "single",
+    "text": "Chest pain from myocardial ischemia occurs because:",
+    "options": [
+      "The heart muscle receives insufficient oxygen",
+      "The lungs are overinflated",
+      "The kidneys are failing",
+      "The patient has low blood sugar"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Insufficient oxygen to heart muscle\" — Correct because ischemic chest pain results from a mismatch between oxygen supply and myocardial demand, commonly from narrowed coronary arteries.\n\n🔴 B) \"Overinflated lungs\" — Incorrect; lung hyperinflation causes dyspnea, not ischemic chest pain.\n\n🔴 C) \"Kidney failure\" — Incorrect; renal failure does not directly cause anginal chest pain.\n\n🔴 D) \"Low blood sugar\" — Incorrect; hypoglycemia can mimic anxiety or neuro symptoms but does NOT directly cause myocardial ischemia."
+  },
+  {
+    "id": "rhythm_q095",
+    "topic": "Angina",
+    "type": "single",
+    "text": "Stable angina is most often triggered by:",
+    "options": [
+      "Physical exertion or emotional stress",
+      "Rest only",
+      "Sleeping",
+      "Low oxygen supply during deep breathing"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Physical exertion or emotional stress\" — Correct because stable angina results from fixed coronary stenosis. Increased demand (exercise, stress, cold) overwhelms supply, triggering predictable chest pain.\n\n🔴 B) \"Rest only\" — Incorrect; rest-induced angina is more typical of unstable or vasospastic angina.\n\n🔴 C) \"Sleeping\" — Incorrect; while nocturnal angina can occur, it is NOT the defining feature of **stable** angina.\n\n🔴 D) \"Deep breathing oxygen mismatch\" — Incorrect; deep breathing does NOT produce angina in coronary artery disease."
+  },
+  {
+    "id": "rhythm_q096",
+    "topic": "Angina vs MI",
+    "type": "single",
+    "text": "Which finding differentiates myocardial infarction (MI) from stable angina?",
+    "options": [
+      "Pain occurs only with exertion",
+      "Pain relieved within minutes by rest",
+      "Pain persists despite rest and medication",
+      "Pain lasting less than 2 minutes"
+    ],
+    "correctIndex": 2,
+    "explanation": "🟢 C) \"Pain persists despite rest and medication\" — Correct because MI pain continues at rest, lasts longer than 20 minutes, and is unrelieved by nitroglycerin. It reflects myocardial necrosis, not reversible ischemia.\n\n🔴 A) \"Pain only with exertion\" — Incorrect; that is stable angina.\n\n🔴 B) \"Relieved by rest\" — Incorrect; again describes stable angina.\n\n🔴 D) \"Less than 2 minutes\" — Incorrect; MI pain is prolonged and severe, not brief."
+  },
+  {
+    "id": "rhythm_q097",
+    "topic": "Nitroglycerin",
+    "type": "single",
+    "text": "What is the primary action of nitroglycerin?",
+    "options": [
+      "Venodilation that decreases preload and relieves myocardial oxygen demand",
+      "Increasing heart rate significantly",
+      "Raising systemic vascular resistance",
+      "Strengthening ventricular contractility"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Venodilation that decreases preload\" — Correct because nitroglycerin dilates venous capacitance vessels, reducing preload and myocardial oxygen demand. This relieves angina by reducing wall tension.\n\n🔴 B) \"Increases heart rate\" — Incorrect; reflex tachycardia CAN occur, but it is not the primary mechanism.\n\n🔴 C) \"Raises SVR\" — Incorrect; nitroglycerin reduces, not increases, vascular resistance.\n\n🔴 D) \"Strengthens contractility\" — Incorrect; nitroglycerin has NO positive inotropic effect."
+  },
+  {
+    "id": "rhythm_q098",
+    "topic": "Nitroglycerin Safety",
+    "type": "single",
+    "text": "Before giving nitroglycerin, the nurse must assess:",
+    "options": [
+      "Heart rate only",
+      "Blood pressure for possible hypotension",
+      "Respiratory rate only",
+      "Bowel sounds"
+    ],
+    "correctIndex": 1,
+    "explanation": "🟢 B) \"Blood pressure for possible hypotension\" — Correct because nitroglycerin can significantly lower blood pressure due to vasodilation. Giving it to a hypotensive patient can cause syncope or shock.\n\n🔴 A) \"Heart rate only\" — Incorrect; HR alone does not determine safety for nitroglycerin administration.\n\n🔴 C) \"Respiratory rate\" — Incorrect; useful but NOT required for nitro safety.\n\n🔴 D) \"Bowel sounds\" — Incorrect; irrelevant to nitroglycerin administration."
+  },
+  {
+    "id": "rhythm_q099",
+    "topic": "Cardiac Enzymes",
+    "type": "single",
+    "text": "Which laboratory marker is most specific for diagnosing myocardial infarction?",
+    "options": [
+      "Troponin I or T",
+      "Total cholesterol",
+      "Creatinine only",
+      "BNP"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Troponin I or T\" — Correct because troponins are released when myocardial cells die. They are extremely sensitive and specific markers for myocardial infarction and remain elevated for days.\n\n🔴 B) \"Cholesterol\" — Incorrect; high cholesterol is a risk factor, not an infarction marker.\n\n🔴 C) \"Creatinine\" — Incorrect; measures kidney function, not myocardial necrosis.\n\n🔴 D) \"BNP\" — Incorrect; BNP indicates heart failure severity, not acute MI."
+  },
+  {
+    "id": "rhythm_q100",
+    "topic": "Cardiac Rehabilitation",
+    "type": "single",
+    "text": "The goal of cardiac rehabilitation after MI includes:",
+    "options": [
+      "Returning the patient to optimal physical functioning and preventing future cardiac events",
+      "Avoiding all physical activity permanently",
+      "Stopping all cardiac medications immediately",
+      "Encouraging unrestricted activity on day one"
+    ],
+    "correctIndex": 0,
+    "explanation": "🟢 A) \"Returning the patient to optimal physical functioning and preventing future cardiac events\" — Correct because cardiac rehab improves exercise tolerance, reduces mortality, lowers risk of recurrent MI, and provides education on diet, medications, and lifestyle.\n\n🔴 B) \"Avoiding all physical activity\" — Incorrect; inactivity worsens outcomes.\n\n🔴 C) \"Stopping medications\" — Incorrect; secondary prevention medications are essential.\n\n🔴 D) \"Unrestricted activity on day one\" — Incorrect; activity is gradually increased under supervision."
+  }
+]
+

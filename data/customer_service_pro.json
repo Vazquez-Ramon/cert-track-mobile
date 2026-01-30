@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cs_q1",
+    "type": "single",
+    "topic": "Mindset",
+    "text": "What is the primary goal of customer service in most organizations?",
+    "options": [
+      "Win every argument",
+      "End calls as quickly as possible",
+      "Solve problems while building trust and loyalty",
+      "Sell as many add-ons as possible, no matter what"
+    ],
+    "correctIndex": 2,
+    "explanation": "Customer service focuses on resolving issues and building long-term relationships."
+  },
+  {
+    "id": "cs_q2",
+    "type": "multi",
+    "topic": "De-escalation",
+    "text": "Which actions can help de-escalate an upset customer?",
+    "options": [
+      "Listening without interrupting",
+      "Matching their volume and tone",
+      "Acknowledging their feelings",
+      "Offering a clear next step"
+    ],
+    "correctIndices": [0, 2, 3],
+    "explanation": "Listening, validating emotions, and providing next steps calm the situation."
+  },
+  {
+    "id": "cs_q3",
+    "type": "single",
+    "topic": "Communication",
+    "text": "Which statement uses positive language?",
+    "options": [
+      "You didn't fill this out correctly",
+      "You always do this wrong",
+      "I can't help you with that",
+      "Let's walk through this form together step by step"
+    ],
+    "correctIndex": 3,
+    "explanation": "Positive language focuses on solutions and collaboration."
+  },
+  {
+    "id": "cs_q4",
+    "type": "fill",
+    "topic": "Listening",
+    "text": "Repeating key points back to the customer to confirm understanding is called active ______.",
+    "correctAnswer": "listening",
+    "correctAnswers": ["listening", "active listening"],
+    "wordBank": ["listening", "selling", "routing", "transferring"],
+    "explanation": "Active listening ensures you correctly understand the customer's issue."
+  },
+  {
+    "id": "cs_q5",
+    "type": "single",
+    "topic": "Follow-up",
+    "text": "After resolving a complicated issue, what is one good way to close the interaction?",
+    "options": [
+      "Anything else?",
+      "Is there anything else I can help you with today?",
+      "We're done here.",
+      "You should be fine now."
+    ],
+    "correctIndex": 1,
+    "explanation": "Inviting any final questions ensures the customer feels fully supported."
+  }
+]

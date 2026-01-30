@@ -1,0 +1,68 @@
+[
+  {
+    "id": "bt_q1",
+    "type": "single",
+    "topic": "Customer Service",
+    "text": "When a customer seems frustrated about a long wait, what is the BEST first response?",
+    "options": [
+      "Ignore it and finish the transaction quickly",
+      "Explain that you're understaffed today",
+      "Acknowledge their frustration and thank them for their patience",
+      "Tell them they should come at a less busy time"
+    ],
+    "correctIndex": 2,
+    "explanation": "Acknowledging the emotion and showing appreciation helps de-escalate the situation."
+  },
+  {
+    "id": "bt_q2",
+    "type": "single",
+    "topic": "Compliance",
+    "text": "What does KYC stand for in banking?",
+    "options": [
+      "Know Your Customer",
+      "Keep Your Cash",
+      "Know Your Currency",
+      "Keep Yield Constant"
+    ],
+    "correctIndex": 0,
+    "explanation": "KYC stands for Know Your Customer, a key part of anti-money laundering procedures."
+  },
+  {
+    "id": "bt_q3",
+    "type": "multi",
+    "topic": "Cash Handling",
+    "text": "Which steps help prevent cash drawer shortages or overages?",
+    "options": [
+      "Counting cash at the start and end of your shift",
+      "Letting coworkers access your drawer if they are busy",
+      "Processing one transaction at a time",
+      "Keeping personal money in the drawer"
+    ],
+    "correctIndices": [0, 2],
+    "explanation": "Tight control of your drawer and one-transaction-at-a-time reduce errors."
+  },
+  {
+    "id": "bt_q4",
+    "type": "fill",
+    "topic": "Security",
+    "text": "If you suspect a counterfeit bill, you should follow your branch's ______ procedures.",
+    "correctAnswer": "security",
+    "correctAnswers": ["security", "counterfeit"],
+    "wordBank": ["security", "lending", "marketing", "sales"],
+    "explanation": "You must follow established security or counterfeit procedures, not confront the customer aggressively."
+  },
+  {
+    "id": "bt_q5",
+    "type": "single",
+    "topic": "Products",
+    "text": "Which type of account is typically used for everyday spending and debit card transactions?",
+    "options": [
+      "Savings account",
+      "Checking account",
+      "Certificate of deposit",
+      "Money market fund"
+    ],
+    "correctIndex": 1,
+    "explanation": "Checking accounts are used for frequent transactions and debit card usage."
+  }
+]

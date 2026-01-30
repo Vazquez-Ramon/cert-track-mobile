@@ -1,0 +1,58 @@
+[
+  {
+    "id": "elec_q1",
+    "type": "single",
+    "topic": "Safety",
+    "text": "Which device is designed to automatically open a circuit when excessive current flows?",
+    "options": ["Fuse", "Switch", "Outlet", "Conduit"],
+    "correctIndex": 0,
+    "explanation": "A fuse protects the circuit by melting when too much current flows, breaking the circuit."
+  },
+  {
+    "id": "elec_q2",
+    "type": "single",
+    "topic": "Safety",
+    "text": "What does PPE stand for in electrical work?",
+    "options": [
+      "Primary Power Equipment",
+      "Personal Protective Equipment",
+      "Parallel Phase Exchange",
+      "Partial Phase Energy"
+    ],
+    "correctIndex": 1,
+    "explanation": "PPE is Personal Protective Equipment such as gloves, goggles, and insulated tools."
+  },
+  {
+    "id": "elec_q3",
+    "type": "single",
+    "topic": "Basics",
+    "text": "In a typical U.S. home, standard receptacles are usually wired at what voltage?",
+    "options": ["120V", "240V", "12V", "480V"],
+    "correctIndex": 0,
+    "explanation": "Standard residential outlets in the U.S. are typically 120 volts."
+  },
+  {
+    "id": "elec_q4",
+    "type": "multi",
+    "topic": "Safety",
+    "text": "Which of the following are common lockout/tagout steps before working on a circuit?",
+    "options": [
+      "Turn off the breaker or disconnect",
+      "Test the circuit for absence of voltage",
+      "Cut the grounding conductor",
+      "Apply a lock and tag to the disconnect"
+    ],
+    "correctIndices": [0, 1, 3],
+    "explanation": "Lockout/tagout includes de-energizing equipment, verifying zero energy, and applying locks/tags."
+  },
+  {
+    "id": "elec_q5",
+    "type": "fill",
+    "topic": "Theory",
+    "text": "The relationship between voltage, current, and resistance in a circuit is described by ______ law.",
+    "correctAnswer": "Ohm's",
+    "correctAnswers": ["Ohms", "Ohm", "Ohm's"],
+    "wordBank": ["Ohm's", "Faraday's", "Newton's", "Kirchhoff's"],
+    "explanation": "Ohm's law states that V = I × R."
+  }
+]

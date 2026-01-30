@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hvac_q1",
+    "type": "single",
+    "topic": "Basics",
+    "text": "Which component in a refrigeration cycle absorbs heat from the indoor air?",
+    "options": ["Condenser", "Compressor", "Evaporator", "Thermostat"],
+    "correctIndex": 2,
+    "explanation": "The evaporator coil absorbs heat from the indoor air as refrigerant evaporates inside it."
+  },
+  {
+    "id": "hvac_q2",
+    "type": "single",
+    "topic": "Safety",
+    "text": "Which PPE item is MOST important when handling refrigerants?",
+    "options": ["Hard hat", "Insulated rubber gloves", "Safety glasses or goggles", "Hearing protection"],
+    "correctIndex": 2,
+    "explanation": "Safety glasses or goggles protect your eyes from refrigerant splashes and debris."
+  },
+  {
+    "id": "hvac_q3",
+    "type": "multi",
+    "topic": "Tools",
+    "text": "Which tools are commonly used when checking refrigerant pressures?",
+    "options": [
+      "Manifold gauge set",
+      "Digital multimeter",
+      "Pressure-temperature chart or app",
+      "Pipe wrench"
+    ],
+    "correctIndices": [0, 2],
+    "explanation": "A manifold gauge set and PT chart are key tools for checking pressures and saturation temperatures."
+  },
+  {
+    "id": "hvac_q4",
+    "type": "fill",
+    "topic": "Theory",
+    "text": "Air conditioners move heat from inside a space to the ______ environment.",
+    "correctAnswer": "outside",
+    "correctAnswers": ["outside", "outdoors", "external"],
+    "wordBank": ["outside", "inside", "return", "supply"],
+    "explanation": "HVAC systems move heat from the conditioned space to the outside environment."
+  },
+  {
+    "id": "hvac_q5",
+    "type": "single",
+    "topic": "Components",
+    "text": "Which HVAC component is responsible for circulating air through ductwork?",
+    "options": ["Blower fan", "Condenser coil", "Expansion valve", "Thermostatic bulb"],
+    "correctIndex": 0,
+    "explanation": "The blower fan moves air across coils and through ducts."
+  }
+]

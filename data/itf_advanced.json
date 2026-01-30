@@ -1,0 +1,649 @@
+[
+  {
+    "id": "itf_a_1",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which statement BEST describes the difference between 32-bit and 64-bit operating systems?",
+    "options": [
+      "32-bit systems can use more RAM than 64-bit systems",
+      "64-bit systems can address more memory and handle larger data types",
+      "32-bit systems are always faster than 64-bit systems",
+      "There is no practical difference for any applications"
+    ],
+    "correctIndex": 1,
+    "topic": "Operating Systems",
+    "explanation": "64-bit OSs can address much more RAM and handle larger data types than 32-bit systems."
+  },
+  {
+    "id": "itf_a_2",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "You need to install a second operating system on an existing computer without affecting the current one. Which approach is MOST appropriate?",
+    "options": ["Dual-boot configuration", "Quick format of the drive", "Deleting the original OS folder", "Clearing the browser cache"],
+    "correctIndex": 0,
+    "topic": "Operating Systems",
+    "explanation": "A dual-boot configuration lets you choose between multiple OS installations."
+  },
+  {
+    "id": "itf_a_3",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which of the following best describes a hypervisor?",
+    "options": [
+      "Software that manages databases",
+      "Firmware used to start the operating system",
+      "Software that creates and manages virtual machines",
+      "Hardware component that accelerates graphics"
+    ],
+    "correctIndex": 2,
+    "topic": "Concepts",
+    "explanation": "A hypervisor is software that manages virtual machines and their access to hardware."
+  },
+  {
+    "id": "itf_a_4",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which addressing method is MOST likely used by a router to forward packets between networks?",
+    "options": ["MAC address", "IP address", "Port number", "Host name"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "Routers use IP addresses to route traffic between different networks."
+  },
+  {
+    "id": "itf_a_5",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "A user can access shared files by computer name but not by IP address. Which service is most likely involved in resolving the name?",
+    "options": ["DHCP", "DNS", "FTP", "SNMP"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "DNS resolves host names to IP addresses."
+  },
+  {
+    "id": "itf_a_6",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which device separates different broadcast domains in a network?",
+    "options": ["Hub", "Switch", "Router", "Repeater"],
+    "correctIndex": 2,
+    "topic": "Networking",
+    "explanation": "Routers separate broadcast domains, while switches separate collision domains."
+  },
+  {
+    "id": "itf_a_7",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which situation is the BEST use case for IaaS (Infrastructure as a Service)?",
+    "options": [
+      "You want to rent full applications over the web",
+      "You want a provider to manage everything including the app",
+      "You want virtualized computing resources to deploy and manage your own OS and apps",
+      "You want only email hosting"
+    ],
+    "correctIndex": 2,
+    "topic": "Cloud",
+    "explanation": "IaaS provides virtualized hardware resources; you manage OS and applications."
+  },
+  {
+    "id": "itf_a_8",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which type of backup only copies files that have changed since the last full backup and clears the archive bit?",
+    "options": ["Full backup", "Differential backup", "Incremental backup", "Snapshot"],
+    "correctIndex": 2,
+    "topic": "Concepts",
+    "explanation": "Incremental backups copy changes since the last full or incremental backup and reset the archive bit."
+  },
+  {
+    "id": "itf_a_9",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "In binary, what is the decimal value of 101101?",
+    "options": ["45", "46", "53", "61"],
+    "correctIndex": 0,
+    "topic": "Concepts",
+    "explanation": "101101₂ = 1*32 + 0*16 + 1*8 + 1*4 + 0*2 + 1*1 = 32 + 8 + 4 + 1 = 45."
+  },
+  {
+    "id": "itf_a_10",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which of the following is a key characteristic of a strong hashing algorithm?",
+    "options": [
+      "Output can be easily reversed",
+      "Small changes in input produce large changes in output",
+      "Output is always shorter than one byte",
+      "It must be used only for encryption"
+    ],
+    "correctIndex": 1,
+    "topic": "Security",
+    "explanation": "Good hashing algorithms exhibit the avalanche effect: small input changes cause large output changes."
+  },
+  {
+    "id": "itf_a_11",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "A user connects to an internal web application using https://intranet.local. Which port is used by default?",
+    "options": ["80", "110", "143", "443"],
+    "correctIndex": 3,
+    "topic": "Networking",
+    "explanation": "HTTPS typically uses TCP port 443."
+  },
+  {
+    "id": "itf_a_12",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which scenario best demonstrates social engineering?",
+    "options": [
+      "Exploiting a software buffer overflow",
+      "Sending crafted packets to a firewall",
+      "Calling an employee and pretending to be IT to get their password",
+      "Running a port scan on a server"
+    ],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "Social engineering manipulates people to reveal information or perform actions."
+  },
+  {
+    "id": "itf_a_13",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which of the following best describes least privilege?",
+    "options": [
+      "Granting all users administrative rights",
+      "Granting users only the access needed to perform their job",
+      "Granting no access to anyone",
+      "Allowing users to choose their own privileges"
+    ],
+    "correctIndex": 1,
+    "topic": "Security",
+    "explanation": "Least privilege means giving users only the access required for their role."
+  },
+  {
+    "id": "itf_a_14",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which statement about IPv6 is TRUE compared to IPv4?",
+    "options": [
+      "IPv6 uses 32-bit addresses",
+      "IPv6 provides a much larger address space",
+      "IPv6 does not support encryption",
+      "IPv6 uses dotted decimal notation"
+    ],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "IPv6 uses 128-bit addresses, providing a vastly larger address space."
+  },
+  {
+    "id": "itf_a_15",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which device is MOST appropriate for connecting multiple wireless devices in a small office while also providing basic routing functions?",
+    "options": ["Access point only", "Switch only", "Wireless router", "Bridge"],
+    "correctIndex": 2,
+    "topic": "Networking",
+    "explanation": "A wireless router usually combines routing, switching, and wireless access."
+  },
+  {
+    "id": "itf_a_16",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "A script runs every day at midnight to copy important files to a backup folder. Which concept does this BEST demonstrate?",
+    "options": ["Automation", "Virtualization", "Sandboxing", "Load balancing"],
+    "correctIndex": 0,
+    "topic": "Programming",
+    "explanation": "Scheduling scripts to perform tasks at a set time is an example of automation."
+  },
+  {
+    "id": "itf_a_17",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which statement best describes an API (Application Programming Interface)?",
+    "options": [
+      "A program that compiles source code",
+      "A set of rules for applications to communicate with each other",
+      "A tool for formatting disks",
+      "A type of malware"
+    ],
+    "correctIndex": 1,
+    "topic": "Programming",
+    "explanation": "APIs provide structured ways for software components to communicate."
+  },
+  {
+    "id": "itf_a_18",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "In a relational database, which key uniquely identifies a record in a table?",
+    "options": ["Foreign key", "Primary key", "Alternate key", "Index key"],
+    "correctIndex": 1,
+    "topic": "Databases",
+    "explanation": "The primary key uniquely identifies each row in a table."
+  },
+  {
+    "id": "itf_a_19",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which SQL statement is used to extract data from a database?",
+    "options": ["INSERT", "UPDATE", "DELETE", "SELECT"],
+    "correctIndex": 3,
+    "topic": "Databases",
+    "explanation": "SELECT retrieves data from tables in a database."
+  },
+  {
+    "id": "itf_a_20",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "A company deploys an application to the cloud where the provider manages the underlying infrastructure, but the company manages the application code. Which model is this?",
+    "options": ["IaaS", "PaaS", "SaaS", "On-premises only"],
+    "correctIndex": 1,
+    "topic": "Cloud",
+    "explanation": "PaaS (Platform as a Service) provides a platform for deploying applications while the provider manages infrastructure."
+  },
+  {
+    "id": "itf_a_21",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which of the following are common symptoms of DNS issues? (Select all that apply.)",
+    "options": [
+      "You can ping an IP address but not the hostname",
+      "You have no power to the PC",
+      "Websites work by IP but not by name",
+      "The monitor is not turning on"
+    ],
+    "correctIndices": [0, 2],
+    "topic": "Networking",
+    "explanation": "If IP connectivity works but name resolution fails, DNS issues are likely."
+  },
+  {
+    "id": "itf_a_22",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which actions can help mitigate phishing attacks? (Select all that apply.)",
+    "options": [
+      "User awareness training",
+      "Clicking on all links to check authenticity",
+      "Email filtering and spam detection",
+      "Verifying URLs before entering credentials"
+    ],
+    "correctIndices": [0, 2, 3],
+    "topic": "Security",
+    "explanation": "Training, filtering, and careful URL verification help reduce phishing risk."
+  },
+  {
+    "id": "itf_a_23",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which of these are key benefits of virtualization? (Select all that apply.)",
+    "options": [
+      "Better hardware utilization",
+      "Simplified disaster recovery",
+      "Requires more physical servers",
+      "Isolation between virtual machines"
+    ],
+    "correctIndices": [0, 1, 3],
+    "topic": "Concepts",
+    "explanation": "Virtualization improves hardware utilization, aids DR, and isolates VMs from one another."
+  },
+  {
+    "id": "itf_a_24",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which techniques are commonly used to secure wireless networks? (Select all that apply.)",
+    "options": [
+      "Using WPA2 or WPA3 encryption",
+      "Hiding the SSID alone",
+      "Changing default administrator passwords",
+      "Using strong complex Wi-Fi passphrases"
+    ],
+    "correctIndices": [0, 2, 3],
+    "topic": "Security",
+    "explanation": "Strong encryption, secure admin passwords, and strong passphrases are key controls."
+  },
+  {
+    "id": "itf_a_25",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which of the following are examples of good password practices? (Select all that apply.)",
+    "options": [
+      "Using the same password everywhere",
+      "Using passphrases that are long and unique",
+      "Changing passwords if a breach is suspected",
+      "Sharing passwords with coworkers you trust"
+    ],
+    "correctIndices": [1, 2],
+    "topic": "Security",
+    "explanation": "Long, unique passwords and changing them after breaches are best practices."
+  },
+  {
+    "id": "itf_a_26",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which of the following accurately describe characteristics of SSDs compared to HDDs? (Select all that apply.)",
+    "options": [
+      "SSDs generally have faster access times",
+      "SSDs are more resistant to physical shock",
+      "SSDs always have higher capacity than HDDs",
+      "SSDs have no moving parts"
+    ],
+    "correctIndices": [0, 1, 3],
+    "topic": "Hardware",
+    "explanation": "SSDs are faster, more shock-resistant, and have no moving parts; they do not always have higher capacity."
+  },
+  {
+    "id": "itf_a_27",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "The process of confirming a user’s identity before granting access is called ________.",
+    "blanks": ["authentication"],
+    "topic": "Security",
+    "explanation": "Authentication verifies that a user is who they claim to be."
+  },
+  {
+    "id": "itf_a_28",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "The principle of ________ ensures that data is not altered or tampered with without authorization.",
+    "blanks": ["integrity"],
+    "topic": "Security",
+    "explanation": "Integrity ensures the accuracy and consistency of data over its lifecycle."
+  },
+  {
+    "id": "itf_a_29",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "In programming, a ________ is a reusable block of code designed to perform a specific task.",
+    "blanks": ["function", "method"],
+    "topic": "Programming",
+    "explanation": "Functions (or methods) are reusable code blocks that perform specific operations."
+  },
+  {
+    "id": "itf_a_30",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "The ________ model of cloud computing provides software applications over the internet on a subscription basis.",
+    "blanks": ["saas"],
+    "topic": "Cloud",
+    "explanation": "SaaS delivers fully managed applications over the internet."
+  },
+  {
+    "id": "itf_a_31",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "A ________ is a security device or software that monitors and controls incoming and outgoing network traffic based on rules.",
+    "blanks": ["firewall"],
+    "topic": "Security",
+    "explanation": "Firewalls filter traffic according to security policies."
+  },
+  {
+    "id": "itf_a_32",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which access control model is based on predefined roles assigned to users?",
+    "options": ["MAC", "DAC", "RBAC", "ABAC"],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "Role-Based Access Control (RBAC) assigns permissions to roles, which are then assigned to users."
+  },
+  {
+    "id": "itf_a_33",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which scenario BEST describes a denial-of-service (DoS) attack?",
+    "options": [
+      "Stealing credentials from a database",
+      "Overwhelming a server with traffic to make it unavailable",
+      "Modifying data in transit",
+      "Installing antivirus software"
+    ],
+    "correctIndex": 1,
+    "topic": "Security",
+    "explanation": "DoS attacks flood systems with traffic or requests, making them unavailable to users."
+  },
+  {
+    "id": "itf_a_34",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which type of malware is specifically designed to demand payment to restore access to data?",
+    "options": ["Trojan", "Spyware", "Ransomware", "Rootkit"],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "Ransomware encrypts or blocks access to data and demands payment to restore it."
+  },
+  {
+    "id": "itf_a_35",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "A company wants to ensure that if one disk fails, the system can continue to operate without data loss. Which technology is MOST appropriate?",
+    "options": ["RAID 0", "RAID 1", "Single disk", "External USB drive only"],
+    "correctIndex": 1,
+    "topic": "Hardware",
+    "explanation": "RAID 1 mirrors data across disks, providing redundancy."
+  },
+  {
+    "id": "itf_a_36",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which of the following BEST describes a sandbox environment?",
+    "options": [
+      "A production system with full privileges",
+      "An isolated environment used to test or run untrusted code safely",
+      "A backup copy of a server",
+      "A virtual private network"
+    ],
+    "correctIndex": 1,
+    "topic": "Security",
+    "explanation": "Sandboxes isolate code and processes from production systems for safe testing."
+  },
+  {
+    "id": "itf_a_37",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which command is commonly used on Linux to list files in a directory?",
+    "options": ["dir", "ls", "copy", "md"],
+    "correctIndex": 1,
+    "topic": "Operating Systems",
+    "explanation": "The ls command lists directory contents on Unix-like systems."
+  },
+  {
+    "id": "itf_a_38",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which Linux command can display the current working directory?",
+    "options": ["pwd", "cd", "mv", "rm"],
+    "correctIndex": 0,
+    "topic": "Operating Systems",
+    "explanation": "pwd stands for 'print working directory'."
+  },
+  {
+    "id": "itf_a_39",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "In programming, which error type occurs when the code runs but produces incorrect results due to faulty logic?",
+    "options": ["Syntax error", "Runtime error", "Logical error", "Compiler error"],
+    "correctIndex": 2,
+    "topic": "Programming",
+    "explanation": "Logical errors occur when the program runs but does not behave as intended."
+  },
+  {
+    "id": "itf_a_40",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which statement about version control systems like Git is TRUE?",
+    "options": [
+      "They only store one version of the code",
+      "They track changes over time and support collaboration",
+      "They are used only for compiled languages",
+      "They cannot be used with cloud services"
+    ],
+    "correctIndex": 1,
+    "topic": "Programming",
+    "explanation": "Version control systems track changes, support branching, and enable collaboration."
+  },
+  {
+    "id": "itf_a_41",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which of the following are common features of mobile device management (MDM) solutions? (Select all that apply.)",
+    "options": [
+      "Remote wipe of lost devices",
+      "Enforcing passcode policies",
+      "Managing Wi-Fi and VPN configurations",
+      "Overclocking CPU for gaming"
+    ],
+    "correctIndices": [0, 1, 2],
+    "topic": "Security",
+    "explanation": "MDM can enforce security policies, configure devices, and remotely wipe them."
+  },
+  {
+    "id": "itf_a_42",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which are advantages of using cloud storage for backups? (Select all that apply.)",
+    "options": [
+      "Offsite storage of data",
+      "Scalability without buying hardware",
+      "No need for internet connectivity",
+      "Automatic backup scheduling options"
+    ],
+    "correctIndices": [0, 1, 3],
+    "topic": "Cloud",
+    "explanation": "Cloud storage offers offsite redundancy, scalability, and automation, but requires internet access."
+  },
+  {
+    "id": "itf_a_43",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "multi",
+    "text": "Which practices help ensure data integrity in a database system? (Select all that apply.)",
+    "options": [
+      "Using primary keys",
+      "Enforcing constraints and validation rules",
+      "Allowing unrestricted direct edits in production",
+      "Using regular backups and transaction logs"
+    ],
+    "correctIndices": [0, 1, 3],
+    "topic": "Databases",
+    "explanation": "Keys, constraints, and logs support consistency and recoverability of data."
+  },
+  {
+    "id": "itf_a_44",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "The three core goals of information security are often summarized as ________, integrity, and availability.",
+    "blanks": ["confidentiality"],
+    "topic": "Security",
+    "explanation": "The CIA triad stands for Confidentiality, Integrity, and Availability."
+  },
+  {
+    "id": "itf_a_45",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "A ________ is a named group of instructions in a program that can be called multiple times from different places.",
+    "blanks": ["function", "subroutine", "procedure"],
+    "topic": "Programming",
+    "explanation": "Functions (subroutines/procedures) encapsulate reusable sets of instructions."
+  },
+  {
+    "id": "itf_a_46",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "fill",
+    "text": "In a database, a ________ key is a field in one table that refers to the primary key in another table.",
+    "blanks": ["foreign"],
+    "topic": "Databases",
+    "explanation": "Foreign keys enforce relationships between tables."
+  },
+  {
+    "id": "itf_a_47",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which performance metric describes the number of cycles a CPU can execute per second?",
+    "options": ["RAM speed", "Clock speed", "Latency", "Bandwidth"],
+    "correctIndex": 1,
+    "topic": "Hardware",
+    "explanation": "CPU clock speed is measured in hertz (Hz), representing cycles per second."
+  },
+  {
+    "id": "itf_a_48",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which of the following BEST describes data at rest?",
+    "options": [
+      "Data moving across a network",
+      "Data currently being processed in memory",
+      "Data stored on a device or backup media",
+      "Data displayed on a monitor"
+    ],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "Data at rest is stored data, such as on disks or backup media."
+  },
+  {
+    "id": "itf_a_49",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which tool would you MOST likely use to capture and analyze network traffic for troubleshooting?",
+    "options": ["Disk defragmenter", "Packet sniffer", "Text editor", "Backup utility"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "Packet sniffers capture and inspect network packets for analysis."
+  },
+  {
+    "id": "itf_a_50",
+    "examId": "comptia_itf_plus",
+    "level": "advanced",
+    "type": "single",
+    "text": "Which term describes spinning up additional virtual machines during periods of high usage and shutting them down when demand decreases?",
+    "options": ["Elasticity", "Redundancy", "Integrity", "Migration"],
+    "correctIndex": 0,
+    "topic": "Cloud",
+    "explanation": "Elasticity is the ability to automatically scale resources up or down based on demand."
+  }
+]

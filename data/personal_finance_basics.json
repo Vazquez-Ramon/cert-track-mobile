@@ -1,0 +1,63 @@
+[
+  {
+    "id": "pf_q1",
+    "type": "single",
+    "topic": "Saving",
+    "text": "What is the main benefit of having an emergency fund?",
+    "options": [
+      "To invest aggressively in the stock market",
+      "To cover unexpected expenses without going into debt",
+      "To avoid paying any taxes",
+      "To qualify for a mortgage"
+    ],
+    "correctIndex": 1,
+    "explanation": "An emergency fund helps you pay surprise costs without using high-interest debt."
+  },
+  {
+    "id": "pf_q2",
+    "type": "single",
+    "topic": "Debt",
+    "text": "Which type of debt usually has the highest interest rate?",
+    "options": ["Mortgage", "Student loan", "Credit card debt", "Auto loan"],
+    "correctIndex": 2,
+    "explanation": "Credit card debt often has much higher interest than other common loans."
+  },
+  {
+    "id": "pf_q3",
+    "type": "multi",
+    "topic": "Budgeting",
+    "text": "Which items are typically considered fixed expenses?",
+    "options": [
+      "Rent or mortgage",
+      "Streaming subscriptions",
+      "Groceries",
+      "Car insurance"
+    ],
+    "correctIndices": [0, 3],
+    "explanation": "Fixed expenses occur regularly and are relatively stable, like housing and insurance."
+  },
+  {
+    "id": "pf_q4",
+    "type": "fill",
+    "topic": "Budgeting",
+    "text": "A spending plan that helps you track income and expenses is called a ______.",
+    "correctAnswer": "budget",
+    "correctAnswers": ["budget"],
+    "wordBank": ["budget", "invoice", "receipt", "loan"],
+    "explanation": "A budget is a plan for how you will use your money."
+  },
+  {
+    "id": "pf_q5",
+    "type": "single",
+    "topic": "Credit",
+    "text": "Which action is MOST likely to improve your credit score over time?",
+    "options": [
+      "Maxing out credit cards",
+      "Paying bills on time consistently",
+      "Closing all old credit accounts",
+      "Only using cash for purchases"
+    ],
+    "correctIndex": 1,
+    "explanation": "Payment history is a major factor in your credit score."
+  }
+]

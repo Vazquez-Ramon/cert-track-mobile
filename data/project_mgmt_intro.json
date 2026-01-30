@@ -1,0 +1,63 @@
+[
+  {
+    "id": "pm_q1",
+    "type": "single",
+    "topic": "Scope",
+    "text": "In project management, what is a project 'scope'?",
+    "options": [
+      "The total budget of the project",
+      "The work and deliverables required to complete the project",
+      "The list of people assigned to the project",
+      "The communication plan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Scope defines what work and which deliverables are included or excluded."
+  },
+  {
+    "id": "pm_q2",
+    "type": "single",
+    "topic": "Constraints",
+    "text": "Which of the following is an example of a project constraint?",
+    "options": ["Team motivation", "Budget limit", "Stakeholder interest", "Innovation level"],
+    "correctIndex": 1,
+    "explanation": "Budget is a classic constraint—work must be delivered within cost limits."
+  },
+  {
+    "id": "pm_q3",
+    "type": "multi",
+    "topic": "Triple Constraint",
+    "text": "Which three factors are often referred to as the 'triple constraint' in project management?",
+    "options": [
+      "Scope",
+      "Time (schedule)",
+      "Cost (budget)",
+      "Team size"
+    ],
+    "correctIndices": [0, 1, 2],
+    "explanation": "Scope, time, and cost form the traditional triple constraint triangle."
+  },
+  {
+    "id": "pm_q4",
+    "type": "fill",
+    "topic": "Roles",
+    "text": "The person responsible for achieving project objectives and balancing constraints is the project ______.",
+    "correctAnswer": "manager",
+    "correctAnswers": ["manager", "project manager"],
+    "wordBank": ["manager", "sponsor", "analyst", "customer"],
+    "explanation": "The project manager leads the project team to meet objectives."
+  },
+  {
+    "id": "pm_q5",
+    "type": "single",
+    "topic": "Communication",
+    "text": "Which communication method is BEST when sharing complex, detailed requirements with stakeholders?",
+    "options": [
+      "Short text message",
+      "Face-to-face or video meeting with a written document",
+      "A meme in the group chat",
+      "Posting a vague update in a channel"
+    ],
+    "correctIndex": 1,
+    "explanation": "Complex requirements are best covered in a discussion supported by clear documentation."
+  }
+]

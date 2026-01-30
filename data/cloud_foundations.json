@@ -1,0 +1,53 @@
+[
+  {
+    "id": "cloud_q1",
+    "type": "single",
+    "topic": "Concepts",
+    "text": "Which cloud model lets you rent virtual machines, storage, and networks but manage your own OS and apps?",
+    "options": ["SaaS", "PaaS", "IaaS", "FaaS"],
+    "correctIndex": 2,
+    "explanation": "Infrastructure as a Service (IaaS) gives you virtualized compute, storage, and network resources."
+  },
+  {
+    "id": "cloud_q2",
+    "type": "single",
+    "topic": "Concepts",
+    "text": "Which of the following is an example of Software as a Service (SaaS)?",
+    "options": ["Microsoft 365", "Docker Engine", "Hyper-V", "Windows Server"],
+    "correctIndex": 0,
+    "explanation": "Microsoft 365 is delivered as a complete SaaS application over the internet."
+  },
+  {
+    "id": "cloud_q3",
+    "type": "multi",
+    "topic": "Benefits",
+    "text": "Which are common benefits of using cloud services?",
+    "options": [
+      "On-demand self-service",
+      "Pay-as-you-go pricing",
+      "Guaranteed infinite bandwidth",
+      "Scalability and elasticity"
+    ],
+    "correctIndices": [0, 1, 3],
+    "explanation": "Cloud offers self-service, consumption-based billing, and scalable resources."
+  },
+  {
+    "id": "cloud_q4",
+    "type": "fill",
+    "topic": "Deployment",
+    "text": "A cloud that is used exclusively by a single organization is called a ______ cloud.",
+    "correctAnswer": "private",
+    "correctAnswers": ["private"],
+    "wordBank": ["public", "private", "hybrid", "community"],
+    "explanation": "A private cloud is operated solely for one organization."
+  },
+  {
+    "id": "cloud_q5",
+    "type": "single",
+    "topic": "Deployment",
+    "text": "Which cloud deployment model combines on-premises infrastructure with public cloud resources?",
+    "options": ["Private cloud", "Public cloud", "Hybrid cloud", "Community cloud"],
+    "correctIndex": 2,
+    "explanation": "A hybrid cloud integrates on-prem and public cloud environments."
+  }
+]

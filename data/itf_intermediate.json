@@ -1,0 +1,577 @@
+[
+  {
+    "id": "itf_i_1",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which component usually has the fastest access time?",
+    "options": ["Hard drive", "RAM", "Optical drive", "USB flash drive"],
+    "correctIndex": 1,
+    "topic": "Hardware",
+    "explanation": "RAM is much faster than long-term storage devices such as hard drives or optical drives."
+  },
+  {
+    "id": "itf_i_2",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of the following best describes an IP address?",
+    "options": ["A physical address on a device", "A logical address used to identify a device on a network", "A type of website URL", "An address for Bluetooth connections"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "An IP address is a logical address used to identify devices on a network."
+  },
+  {
+    "id": "itf_i_3",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which IPv4 address type is intended for communication within a private internal network?",
+    "options": ["Public address", "Private address", "Loopback address", "Broadcast address"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "Private address ranges (such as 192.168.x.x) are reserved for internal networks."
+  },
+  {
+    "id": "itf_i_4",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which storage type typically offers the best performance for a laptop?",
+    "options": ["7200 RPM HDD", "5400 RPM HDD", "SATA SSD", "DVD drive"],
+    "correctIndex": 2,
+    "topic": "Hardware",
+    "explanation": "SSDs provide faster read/write speeds and better performance than HDDs."
+  },
+  {
+    "id": "itf_i_5",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "What is the main purpose of a device driver?",
+    "options": ["To remove malware", "To connect the OS to hardware components", "To speed up internet access", "To manage user accounts"],
+    "correctIndex": 1,
+    "topic": "Operating Systems",
+    "explanation": "Device drivers allow the operating system to communicate with hardware devices."
+  },
+  {
+    "id": "itf_i_6",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of the following wireless security standards is the most secure for home Wi-Fi?",
+    "options": ["WEP", "WPA", "WPA2", "Open (no password)"],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "WPA2 is more secure than WEP and WPA. Open networks are not secure at all."
+  },
+  {
+    "id": "itf_i_7",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which tool can you use to display basic network configuration information on Windows?",
+    "options": ["ipconfig", "chkdsk", "defrag", "tasklist"],
+    "correctIndex": 0,
+    "topic": "Networking",
+    "explanation": "ipconfig shows IP addressing information on Windows systems."
+  },
+  {
+    "id": "itf_i_8",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which file system is commonly used on Windows for internal hard drives?",
+    "options": ["FAT16", "FAT32", "NTFS", "ext4"],
+    "correctIndex": 2,
+    "topic": "Operating Systems",
+    "explanation": "NTFS is the default file system for most modern Windows installations."
+  },
+  {
+    "id": "itf_i_9",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which command is used on Windows to test connectivity to another host?",
+    "options": ["test", "ping", "trace", "route"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "The ping utility sends ICMP echo requests to test connectivity."
+  },
+  {
+    "id": "itf_i_10",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of the following is an advantage of solid-state drives over traditional hard drives?",
+    "options": ["Lower cost per gigabyte", "No moving parts and faster access", "Higher maximum capacity always", "They never fail"],
+    "correctIndex": 1,
+    "topic": "Hardware",
+    "explanation": "SSDs have no moving parts, offer faster access times, and are more shock-resistant."
+  },
+  {
+    "id": "itf_i_11",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which term refers to a small piece of code that fixes a specific bug or vulnerability in software?",
+    "options": ["Patch", "Backup", "Image", "Format"],
+    "correctIndex": 0,
+    "topic": "Security",
+    "explanation": "A patch is a software update that addresses specific issues or vulnerabilities."
+  },
+  {
+    "id": "itf_i_12",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which type of software license allows you to modify and redistribute the source code?",
+    "options": ["Open source", "Freeware", "Shareware", "Commercial"],
+    "correctIndex": 0,
+    "topic": "Concepts",
+    "explanation": "Open-source licenses typically allow modification and redistribution of source code."
+  },
+  {
+    "id": "itf_i_13",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which programming concept represents a named storage location in memory?",
+    "options": ["Loop", "Function", "Variable", "Array"],
+    "correctIndex": 2,
+    "topic": "Programming",
+    "explanation": "A variable is a named storage location that can hold a value."
+  },
+  {
+    "id": "itf_i_14",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which data type is typically used to represent true/false values?",
+    "options": ["Integer", "String", "Boolean", "Floating point"],
+    "correctIndex": 2,
+    "topic": "Programming",
+    "explanation": "Boolean values represent true or false conditions."
+  },
+  {
+    "id": "itf_i_15",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "What does HTTP stand for?",
+    "options": ["Hypertext Transfer Protocol", "Hyper Transport Text Protocol", "Host Transfer Text Program", "Hyperlink Transfer Program"],
+    "correctIndex": 0,
+    "topic": "Networking",
+    "explanation": "HTTP stands for Hypertext Transfer Protocol."
+  },
+  {
+    "id": "itf_i_16",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which protocol is used to securely browse websites?",
+    "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "HTTPS encrypts HTTP traffic for secure web browsing."
+  },
+  {
+    "id": "itf_i_17",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which term describes the process of transforming readable data into an unreadable format?",
+    "options": ["Hashing", "Encrypting", "Compressing", "Decompressing"],
+    "correctIndex": 1,
+    "topic": "Security",
+    "explanation": "Encryption converts plaintext into ciphertext using an algorithm and key."
+  },
+  {
+    "id": "itf_i_18",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which user account type has the most privileges on a typical desktop OS?",
+    "options": ["Guest", "Standard user", "Administrator", "Limited user"],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "Administrator accounts have the most privileges and should be protected carefully."
+  },
+  {
+    "id": "itf_i_19",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of the following is a best practice when creating backups?",
+    "options": ["Only back up when a problem occurs", "Use one backup stored on the same drive", "Use regular scheduled backups with offsite or cloud copies", "Back up only small files"],
+    "correctIndex": 2,
+    "topic": "Concepts",
+    "explanation": "Regular, scheduled backups stored in multiple locations provide better protection."
+  },
+  {
+    "id": "itf_i_20",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "What is a benefit of using a password manager?",
+    "options": ["You only need one weak password", "It automatically sends your passwords to friends", "It securely stores and generates strong unique passwords", "It disables multi-factor authentication"],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "Password managers help create and store strong, unique passwords for each account."
+  },
+  {
+    "id": "itf_i_21",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which term describes a network confined to a small geographic area, such as a home or office?",
+    "options": ["WAN", "LAN", "MAN", "SAN"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "A LAN (Local Area Network) covers a limited area like a home, office, or building."
+  },
+  {
+    "id": "itf_i_22",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which tool can you use to uninstall programs in Windows?",
+    "options": ["Task Manager", "Device Manager", "Control Panel or Settings", "Disk Cleanup"],
+    "correctIndex": 2,
+    "topic": "Operating Systems",
+    "explanation": "Programs can be removed from 'Apps & Features' in Settings or from Control Panel in older versions."
+  },
+  {
+    "id": "itf_i_23",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "What is the main purpose of two-factor authentication (2FA)?",
+    "options": ["To speed up login times", "To reduce the need for passwords", "To add an extra layer of security using a second verification method", "To allow anonymous logins"],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "2FA requires something you know plus something you have or are, improving security."
+  },
+  {
+    "id": "itf_i_24",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which mobile device setting helps prevent unauthorized access if the device is lost?",
+    "options": ["Airplane mode", "Screen lock with PIN or biometrics", "Silent mode", "Vibration mode"],
+    "correctIndex": 1,
+    "topic": "Security",
+    "explanation": "Screen locks with PINs, passwords, or biometrics help prevent unauthorized access."
+  },
+  {
+    "id": "itf_i_25",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "In a spreadsheet, what is the intersection of a row and a column called?",
+    "options": ["Field", "Record", "Cell", "Formula"],
+    "correctIndex": 2,
+    "topic": "Productivity",
+    "explanation": "Each cell is the intersection of a row and a column."
+  },
+  {
+    "id": "itf_i_26",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which spreadsheet function adds a range of numbers together?",
+    "options": ["AVERAGE", "SUM", "MAX", "IF"],
+    "correctIndex": 1,
+    "topic": "Productivity",
+    "explanation": "The SUM function adds values within a specified range."
+  },
+  {
+    "id": "itf_i_27",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which term describes a collection of related data organized into tables, rows, and columns?",
+    "options": ["Spreadsheet", "Database", "File system", "Archive"],
+    "correctIndex": 1,
+    "topic": "Databases",
+    "explanation": "A database stores structured data in tables, rows, and columns."
+  },
+  {
+    "id": "itf_i_28",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which statement about virtualization is TRUE?",
+    "options": ["It requires multiple physical computers", "It allows multiple virtual machines to run on one physical host", "It only works on mobile phones", "It cannot be used for servers"],
+    "correctIndex": 1,
+    "topic": "Concepts",
+    "explanation": "Virtualization lets multiple virtual machines share one physical host."
+  },
+  {
+    "id": "itf_i_29",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of the following is a benefit of cloud computing?",
+    "options": ["Always requires on-premises servers", "On-demand resources and scalability", "Only works offline", "No need for internet access"],
+    "correctIndex": 1,
+    "topic": "Cloud",
+    "explanation": "Cloud computing provides on-demand resources and easy scalability over the internet."
+  },
+  {
+    "id": "itf_i_30",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "multi",
+    "text": "Which of the following are examples of multi-factor authentication? (Select all that apply.)",
+    "options": [
+      "Password only",
+      "Password plus a one-time code sent by SMS",
+      "Password plus a fingerprint scan",
+      "Username only"
+    ],
+    "correctIndices": [1, 2],
+    "topic": "Security",
+    "explanation": "MFA combines at least two factors, such as a password and a one-time code or biometrics."
+  },
+  {
+    "id": "itf_i_31",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "multi",
+    "text": "Which of the following are examples of output devices? (Select all that apply.)",
+    "options": ["Monitor", "Mouse", "Printer", "Speakers"],
+    "correctIndices": [0, 2, 3],
+    "topic": "Hardware",
+    "explanation": "Monitors, printers, and speakers output information; a mouse is an input device."
+  },
+  {
+    "id": "itf_i_32",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "multi",
+    "text": "Which of these are common email protocols? (Select all that apply.)",
+    "options": ["SMTP", "IMAP", "POP3", "FTP"],
+    "correctIndices": [0, 1, 2],
+    "topic": "Networking",
+    "explanation": "SMTP sends email; IMAP and POP3 retrieve email from servers."
+  },
+  {
+    "id": "itf_i_33",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "multi",
+    "text": "Which of the following can help protect your privacy online? (Select all that apply.)",
+    "options": [
+      "Using private browsing modes",
+      "Sharing your full birthday publicly",
+      "Limiting what you post on social media",
+      "Using strong unique passwords"
+    ],
+    "correctIndices": [0, 2, 3],
+    "topic": "Security",
+    "explanation": "Private browsing, limiting personal details, and strong passwords help protect privacy."
+  },
+  {
+    "id": "itf_i_34",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "multi",
+    "text": "Which items are examples of non-volatile storage? (Select all that apply.)",
+    "options": ["RAM", "SSD", "HDD", "CPU cache"],
+    "correctIndices": [1, 2],
+    "topic": "Hardware",
+    "explanation": "SSDs and HDDs keep data when power is off; RAM and CPU cache are volatile."
+  },
+  {
+    "id": "itf_i_35",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "fill",
+    "text": "In IPv4, an address is typically written as four numbers separated by ________.",
+    "blanks": ["dots", "periods"],
+    "topic": "Networking",
+    "explanation": "IPv4 addresses use dotted decimal notation, such as 192.168.1.10."
+  },
+  {
+    "id": "itf_i_36",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "fill",
+    "text": "The process of identifying and fixing problems in software or hardware is called ________.",
+    "blanks": ["troubleshooting"],
+    "topic": "Concepts",
+    "explanation": "Troubleshooting is the systematic process of identifying and resolving issues."
+  },
+  {
+    "id": "itf_i_37",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "fill",
+    "text": "A ________ is a small network device that sends data only to the specific port where the destination device resides, reducing unnecessary traffic.",
+    "blanks": ["switch"],
+    "topic": "Networking",
+    "explanation": "Switches forward frames to the correct port based on MAC addresses."
+  },
+  {
+    "id": "itf_i_38",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "fill",
+    "text": "The set of rules that determine how data is formatted and transmitted on a network is called a ________.",
+    "blanks": ["protocol"],
+    "topic": "Networking",
+    "explanation": "Protocols define how data is structured and exchanged between devices."
+  },
+  {
+    "id": "itf_i_39",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "fill",
+    "text": "A ________ is a type of malware that spreads itself over a network without needing to attach to a host file.",
+    "blanks": ["worm"],
+    "topic": "Security",
+    "explanation": "Worms are self-replicating malware that often spread over networks."
+  },
+  {
+    "id": "itf_i_40",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which term represents the amount of data that can be transmitted over a network in a given period of time?",
+    "options": ["Latency", "Bandwidth", "Throughput delay", "Ping"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "Bandwidth describes the capacity of the network link."
+  },
+  {
+    "id": "itf_i_41",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of these is the BEST description of a cookie in a web browser?",
+    "options": [
+      "A text file that stores small pieces of data about your session",
+      "A virus that infects browsers",
+      "A backup of your browsing history",
+      "An encryption key"
+    ],
+    "correctIndex": 0,
+    "topic": "Security",
+    "explanation": "Cookies store small amounts of data used by websites, such as preferences or session IDs."
+  },
+  {
+    "id": "itf_i_42",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which setting in a web browser helps prevent pop-up windows from appearing automatically?",
+    "options": ["Ad blocker", "Pop-up blocker", "History", "Zoom"],
+    "correctIndex": 1,
+    "topic": "Productivity",
+    "explanation": "A pop-up blocker prevents unwanted pop-up windows from opening."
+  },
+  {
+    "id": "itf_i_43",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which mobile connectivity option typically uses the cellular provider’s data network?",
+    "options": ["Wi-Fi", "Bluetooth", "NFC", "LTE/5G"],
+    "correctIndex": 3,
+    "topic": "Networking",
+    "explanation": "LTE and 5G are cellular data technologies."
+  },
+  {
+    "id": "itf_i_44",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "What is the main purpose of a UPS in a small office network?",
+    "options": [
+      "Provide fast internet speed",
+      "Act as a firewall",
+      "Provide temporary power during outages and protect from surges",
+      "Connect multiple networks together"
+    ],
+    "correctIndex": 2,
+    "topic": "Hardware",
+    "explanation": "A UPS protects equipment and provides temporary power during outages."
+  },
+  {
+    "id": "itf_i_45",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of the following is a common sign that a computer might be infected with malware?",
+    "options": [
+      "Slightly faster performance",
+      "Unexpected pop-up ads and slow performance",
+      "Lower electricity usage",
+      "Quieter fans"
+    ],
+    "correctIndex": 1,
+    "topic": "Security",
+    "explanation": "Pop-up ads and slow performance often indicate malware infections."
+  },
+  {
+    "id": "itf_i_46",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "In programming, which control structure repeats a block of code while a condition is true?",
+    "options": ["Function", "Variable", "Loop", "Constant"],
+    "correctIndex": 2,
+    "topic": "Programming",
+    "explanation": "Loops allow you to repeat code as long as a condition remains true."
+  },
+  {
+    "id": "itf_i_47",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which term describes the physical parts of a computer system?",
+    "options": ["Software", "Hardware", "Firmware", "Shareware"],
+    "correctIndex": 1,
+    "topic": "Hardware",
+    "explanation": "Hardware refers to the physical components, while software is the code that runs on them."
+  },
+  {
+    "id": "itf_i_48",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which statement about SaaS (Software as a Service) is TRUE?",
+    "options": [
+      "Software must be installed locally on every device",
+      "Software is delivered over the internet on demand",
+      "The customer manages all infrastructure",
+      "It can only be used offline"
+    ],
+    "correctIndex": 1,
+    "topic": "Cloud",
+    "explanation": "SaaS delivers software over the internet, managed by the provider."
+  },
+  {
+    "id": "itf_i_49",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which of the following is the MOST secure method for disposing of an old hard drive containing sensitive data?",
+    "options": ["Quick format", "Deleting files", "Physical destruction or specialized wiping", "Moving files to Recycle Bin"],
+    "correctIndex": 2,
+    "topic": "Security",
+    "explanation": "Physical destruction or using specialized wiping tools ensures data cannot be easily recovered."
+  },
+  {
+    "id": "itf_i_50",
+    "examId": "comptia_itf_plus",
+    "level": "intermediate",
+    "type": "single",
+    "text": "Which metric typically represents how long it takes a packet to travel from source to destination and back?",
+    "options": ["Bandwidth", "Latency", "Throughput", "Uptime"],
+    "correctIndex": 1,
+    "topic": "Networking",
+    "explanation": "Latency is the time delay experienced in a system, often measured in milliseconds."
+  }
+]
