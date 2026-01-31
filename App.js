@@ -144,7 +144,7 @@ function AppNavigator() {
 
 export default function App() {
   return (
-    <SafeAreaProvider> {/* <-- FIXED WRAPPER */}
+    <SafeAreaProvider>
       <AppProvider>
         <ChatProvider>
           <StatusBar barStyle="light-content" />

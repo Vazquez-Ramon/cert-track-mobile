@@ -3,19 +3,18 @@ import React from 'react';
 import { TouchableOpacity, Text, View } from 'react-native';
 import { styles } from '../styles';
 
-/**
- * Card-style tile used on the Home screen to navigate to sections.
- * Props:
- *  - title: string
- *  - subtitle?: string
- *  - icon?: string (emoji)
- *  - onPress: () => void
- *  - badgeCount?: number  // optional red notification badge (e.g., for Global Chat)
- */
 export function MenuTile({ title, subtitle, icon, onPress, badgeCount }) {
   // show badge whenever a badgeCount is passed in (even 0),
   // so the red bubble is always visible for Global Chat when wired up
   const hasBadge = badgeCount !== undefined && badgeCount !== null;
+
+  // ✅ Always render badge as a STRING to avoid RN text node issues
+  const badgeText =
+    typeof badgeCount === 'number'
+      ? badgeCount > 9
+        ? '9+'
+        : String(badgeCount)
+      : '•';
 
   return (
     <TouchableOpacity
@@ -46,11 +45,7 @@ export function MenuTile({ title, subtitle, icon, onPress, badgeCount }) {
               fontWeight: '700',
             }}
           >
-            {typeof badgeCount === 'number'
-              ? badgeCount > 9
-                ? '9+'
-                : badgeCount
-              : '•'}
+            {badgeText}
           </Text>
         </View>
       )}

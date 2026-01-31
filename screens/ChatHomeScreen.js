@@ -525,7 +525,7 @@ export function ChatHomeScreen({ navigation }) {
                                     }}
                                 />
                                 {/* Chevron to open preset/management dropdown */}
-                                <TouchableOpacity onPress={() => setShowStatusMessageDropdown(true)}> {/* 🌟 MODIFIED */}
+                                <TouchableOpacity onPress={() => setShowStatusMessageDropdown(true)}>
                                     <FontAwesome5 name="chevron-down" size={12} color="rgba(255,255,255,0.8)" style={{ marginRight: 55 }} />
                                 </TouchableOpacity>
                             </View>
@@ -727,9 +727,9 @@ export function ChatHomeScreen({ navigation }) {
             {renderGradientHero()}
             {renderTabs()}
             {renderMain()}
-            {StatusMessageDropdown()} {/* 🌟 MOVED HERE TO ENSURE IT'S ON TOP (Higher Z-Index) */}
+            {StatusMessageDropdown()}
             {AvatarAndPresenceModal()} 
-            {ContactOptionsModal()} {/* 🌟 ADDED: Render the options modal */}
+            {ContactOptionsModal()}
             {/* Modal for creating a room is not included in the refactoring but should remain. */}
         </View>
     );
